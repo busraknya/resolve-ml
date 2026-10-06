@@ -1,0 +1,1001 @@
+request_status,date_received,date_completed,suburb,category,service_desc,days_to_complete,received_year,received_month,received_day_of_week
+CLOSED,2015-11-19,2015-12-15,,Roads and Traffic,Traffic Management,26,2015,11,3
+CLOSED,2015-09-14,2015-09-14,Melbourne,Parking,Parking Compliance Services,1,2015,9,0
+CLOSED,2015-04-27,2015-05-12,Carlton,Parks and Trees,Tree Maintenance Services,15,2015,4,0
+CLOSED,2015-03-12,2015-03-23,East Melbourne,Graffiti,Graffiti Removal,11,2015,3,3
+CLOSED,2016-04-07,2016-04-14,North Melbourne,Graffiti,Graffiti Removal,7,2016,4,3
+CLOSED,2016-05-31,2016-06-06,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,6,2016,5,1
+CLOSED,2016-04-19,2016-05-26,Melbourne,Graffiti,Graffiti Removal,37,2016,4,1
+CLOSED,2016-03-02,2016-03-07,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,5,2016,3,2
+CLOSED,2016-01-17,2016-01-27,Docklands,Graffiti,Graffiti Removal,10,2016,1,6
+CLOSED,2015-04-13,2015-04-20,Melbourne,Parks and Trees,Tree Maintenance Services,7,2015,4,0
+CLOSED,2015-09-11,2015-09-15,North Melbourne,"Waste, Street Cleaning and Litter",Syringe pick-up services,4,2015,9,4
+CLOSED,2016-05-20,2016-05-24,Carlton,Roads and Traffic,Road and Footpath Maintenance,4,2016,5,4
+CLOSED,2015-04-09,2015-04-13,,Graffiti,Graffiti Removal,4,2015,4,3
+CLOSED,2015-05-25,2015-06-02,,"Waste, Street Cleaning and Litter",Waste collection services,8,2015,5,0
+CLOSED,2015-01-21,2015-04-14,,Parks and Trees,Park Cleaning,83,2015,1,2
+CLOSED,2014-12-29,2014-12-30,,"Waste, Street Cleaning and Litter",Syringe pick-up services,1,2014,12,0
+CLOSED,2014-11-12,2014-11-14,,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2014,11,2
+CLOSED,2015-02-11,2015-02-19,,Parks and Trees,Park Cleaning,8,2015,2,2
+CLOSED,2015-02-28,2015-02-28,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2015,2,5
+CLOSED,2015-04-09,2015-04-13,,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2015,4,3
+CLOSED,2015-05-04,2015-05-07,,"Waste, Street Cleaning and Litter",Missing Bin,3,2015,5,0
+CLOSED,2015-07-02,2015-07-09,,Parks and Trees,Tree Maintenance Services,7,2015,7,3
+CLOSED,2015-07-07,2015-08-10,,"Waste, Street Cleaning and Litter",Dumped Rubbish,34,2015,7,1
+CLOSED,2014-12-03,2014-12-04,,"Waste, Street Cleaning and Litter",Public Litter Bin,1,2014,12,2
+CLOSED,2014-12-08,2014-12-11,,"Waste, Street Cleaning and Litter",Damaged Bins,3,2014,12,0
+CLOSED,2015-08-20,2015-08-31,,Parks and Trees,Tree Maintenance Services,11,2015,8,3
+CLOSED,2015-08-26,2015-08-27,,"Waste, Street Cleaning and Litter",Damaged Bins,1,2015,8,2
+CLOSED,2016-05-03,2016-05-03,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,5,1
+CLOSED,2015-04-22,2015-04-23,Carlton,"Waste, Street Cleaning and Litter",Damaged Bins,1,2015,4,2
+CLOSED,2015-07-03,2015-07-03,,"Waste, Street Cleaning and Litter",Syringe pick-up services,1,2015,7,4
+CLOSED,2016-03-10,2016-03-18,,Graffiti,Graffiti Removal,8,2016,3,3
+CLOSED,2015-11-19,2015-12-04,,Parks and Trees,Tree Maintenance Services,15,2015,11,3
+CLOSED,2015-01-30,2015-02-04,Melbourne,Graffiti,Graffiti Removal,5,2015,1,4
+CLOSED,2015-08-12,2015-08-20,,Graffiti,Graffiti Removal,8,2015,8,2
+CLOSED,2015-05-29,2015-06-17,Carlton,Parks and Trees,Condition of Assets in Parks,19,2015,5,4
+CLOSED,2015-07-20,2015-07-21,Melbourne,"Waste, Street Cleaning and Litter",Public Litter Bin,1,2015,7,0
+CLOSED,2015-09-07,2015-09-08,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2015,9,0
+CLOSED,2015-07-29,2015-07-29,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2015,7,2
+CLOSED,2015-10-14,2015-10-14,,Parking,Parking Meter Service,1,2015,10,2
+CLOSED,2015-07-29,2015-08-03,,Asset maintenance,Public Toilets,5,2015,7,2
+CLOSED,2015-12-10,2015-12-11,,Parking,Parking Meter Service,1,2015,12,3
+CLOSED,2016-03-03,2016-03-08,,Graffiti,Graffiti Removal,5,2016,3,3
+CLOSED,2015-08-14,2015-08-17,,"Waste, Street Cleaning and Litter",Public Litter Bin,3,2015,8,4
+CLOSED,2015-09-10,2015-09-11,,"Waste, Street Cleaning and Litter",Public Litter Bin,1,2015,9,3
+CLOSED,2015-06-17,2015-06-19,Melbourne,"Waste, Street Cleaning and Litter",Missing Bin,2,2015,6,2
+CLOSED,2015-08-12,2015-08-14,,Roads and Traffic,Road and Footpath Maintenance,2,2015,8,2
+CLOSED,2015-10-05,2015-10-05,,Parking,Parking Meter Service,1,2015,10,0
+CLOSED,2015-10-01,2015-10-01,,Parking,Parking Meter Service,1,2015,10,3
+CLOSED,2015-08-27,2015-12-02,,Roads and Traffic,Traffic Management,97,2015,8,3
+CLOSED,2015-10-07,2015-10-08,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2015,10,2
+CLOSED,2016-01-07,2016-01-07,,Roads and Traffic,Road and Footpath Maintenance,1,2016,1,3
+CLOSED,2016-05-09,2016-05-23,,Graffiti,Graffiti Removal,14,2016,5,0
+CLOSED,2016-05-09,2016-05-23,,"Waste, Street Cleaning and Litter",Missed Bin Collection,14,2016,5,0
+CLOSED,2015-07-10,2015-07-13,,"Waste, Street Cleaning and Litter",Street Cleaning services,3,2015,7,4
+CLOSED,2015-10-27,2015-11-23,,Graffiti,Graffiti Removal,27,2015,10,1
+CLOSED,2015-07-31,2015-10-16,,Parks and Trees,Park Cleaning,77,2015,7,4
+CLOSED,2015-10-09,2015-11-23,,Graffiti,Graffiti Removal,45,2015,10,4
+CLOSED,2016-03-08,2016-03-10,,"Waste, Street Cleaning and Litter",Street Cleaning services,2,2016,3,1
+CLOSED,2015-07-09,2015-07-09,,Parking,Parking Compliance Services,1,2015,7,3
+CLOSED,2015-11-17,2015-11-18,Parkville,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2015,11,1
+CLOSED,2015-03-05,2015-03-06,Parkville,Parks and Trees,Condition of Assets in Parks,1,2015,3,3
+CLOSED,2015-09-18,2015-09-22,,"Waste, Street Cleaning and Litter",Dumped Rubbish,4,2015,9,4
+CLOSED,2015-07-23,2015-07-27,,"Waste, Street Cleaning and Litter",Dumped Rubbish,4,2015,7,3
+CLOSED,2016-02-16,2016-02-18,Parkville,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2016,2,1
+CLOSED,2014-11-27,2014-12-08,Kensington,Parks and Trees,Tree Maintenance Services,11,2014,11,3
+CLOSED,2015-05-12,2015-05-19,Carlton,"Waste, Street Cleaning and Litter",Missing Bin,7,2015,5,1
+CLOSED,2015-02-06,2015-02-09,West Melbourne,"Waste, Street Cleaning and Litter",Public Litter Bin,3,2015,2,4
+CLOSED,2016-01-20,2016-01-20,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,1,2
+CLOSED,2015-07-09,2015-07-09,,"Waste, Street Cleaning and Litter",Public Litter Bin,1,2015,7,3
+CLOSED,2015-10-08,2015-10-09,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2015,10,3
+CLOSED,2016-05-26,2016-05-27,Kensington,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,5,3
+CLOSED,2014-12-08,2014-12-11,Melbourne,"Waste, Street Cleaning and Litter",Public Litter Bin,3,2014,12,0
+CLOSED,2016-04-06,2016-05-04,,Graffiti,Graffiti Removal,28,2016,4,2
+CLOSED,2015-04-01,2015-04-14,North Melbourne,Graffiti,Graffiti Removal,13,2015,4,2
+CLOSED,2016-01-21,2016-01-22,Kensington,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,1,3
+CLOSED,2016-04-19,2016-04-26,,Parking,Parking Meter Service,7,2016,4,1
+CLOSED,2016-03-04,2016-03-05,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,3,4
+CLOSED,2016-04-26,2016-05-10,,"Waste, Street Cleaning and Litter",Missed Bin Collection,14,2016,4,1
+CLOSED,2015-03-30,2015-04-01,,"Waste, Street Cleaning and Litter",Public Litter Bin,2,2015,3,0
+CLOSED,2015-11-24,2015-11-25,East Melbourne,Parks and Trees,Lawns and Irrigation,1,2015,11,1
+CLOSED,2014-11-13,2014-11-24,Carlton North,Graffiti,Graffiti Removal,11,2014,11,3
+CLOSED,2015-03-03,2015-03-18,Kensington,Parks and Trees,Tree Maintenance Services,15,2015,3,1
+CLOSED,2015-06-26,2015-07-08,West Melbourne,Graffiti,Graffiti Removal,12,2015,6,4
+CLOSED,2015-01-22,2015-02-06,Melbourne,Parks and Trees,Park Cleaning,15,2015,1,3
+CLOSED,2015-12-08,2016-01-14,,Graffiti,Graffiti Removal,37,2015,12,1
+CLOSED,2015-03-18,2015-04-01,North Melbourne,Graffiti,Graffiti Removal,14,2015,3,2
+CLOSED,2016-03-24,2016-03-25,Carlton,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,3,3
+CLOSED,2014-11-14,2014-11-27,Carlton,Parks and Trees,Condition of Assets in Parks,13,2014,11,4
+CLOSED,2015-03-02,2015-03-12,Parkville,Graffiti,Graffiti Removal,10,2015,3,0
+CLOSED,2016-01-12,2016-01-13,North Melbourne,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,1,1
+CLOSED,2016-05-27,2016-06-27,Carlton North,Graffiti,Graffiti Removal,31,2016,5,4
+CLOSED,2015-02-11,2015-02-13,West Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2015,2,2
+CLOSED,2016-01-29,2016-02-02,Melbourne,Graffiti,Graffiti Removal,4,2016,1,4
+CLOSED,2016-05-03,2016-05-10,South Yarra,Parks and Trees,Condition of Assets in Parks,7,2016,5,1
+CLOSED,2016-02-03,2016-02-04,Carlton,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,2,2
+CLOSED,2015-11-25,2015-11-27,East Melbourne,"Waste, Street Cleaning and Litter",Damaged Bins,2,2015,11,2
+CLOSED,2014-12-31,2015-01-02,West Melbourne,"Waste, Street Cleaning and Litter",Syringe pick-up services,2,2014,12,2
+CLOSED,2015-08-26,2015-08-27,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2015,8,2
+CLOSED,2016-04-14,2016-04-18,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,4,3
+CLOSED,2016-07-01,2016-07-06,Melbourne,Graffiti,Graffiti Removal,5,2016,7,4
+CLOSED,2016-08-22,2016-08-24,Melbourne,Parks and Trees,Condition of Assets in Parks,2,2016,8,0
+CLOSED,2016-08-25,2016-09-01,Melbourne,"Waste, Street Cleaning and Litter",Dumped Rubbish,7,2016,8,3
+CLOSED,2016-08-22,2016-08-26,,Parks and Trees,Tree Maintenance Services,4,2016,8,0
+CLOSED,2016-08-09,2016-08-15,Carlton,Graffiti,Graffiti Removal,6,2016,8,1
+CLOSED,2016-06-14,2016-07-06,Flemington,"Waste, Street Cleaning and Litter",Damaged Bins,22,2016,6,1
+CLOSED,2016-07-11,2016-07-22,,Asset maintenance,Street Lighting Maintenance,11,2016,7,0
+CLOSED,2016-08-08,2016-08-09,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,8,0
+CLOSED,2016-07-05,2016-07-06,,Roads and Traffic,Drain Maintenance,1,2016,7,1
+CLOSED,2016-07-27,2016-08-04,North Melbourne,Graffiti,Graffiti Removal,8,2016,7,2
+CLOSED,2016-07-03,2016-07-03,,Parking,Parking Compliance Services,1,2016,7,6
+CLOSED,2016-06-20,2016-07-12,,Parks and Trees,Tree Maintenance Services,22,2016,6,0
+CLOSED,2016-07-14,2016-08-11,Melbourne,Graffiti,Graffiti Removal,28,2016,7,3
+CLOSED,2016-06-15,2016-06-30,Carlton,Graffiti,Graffiti Removal,15,2016,6,2
+CLOSED,2016-07-21,2016-07-22,West Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,1,2016,7,3
+CLOSED,2016-08-05,2016-08-09,Parkville,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,8,4
+CLOSED,2016-07-19,2016-07-19,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2016,7,1
+CLOSED,2016-09-05,2016-09-05,Kensington,Graffiti,Graffiti Removal,1,2016,9,0
+CLOSED,2016-06-09,2016-07-05,Parkville,Parks and Trees,Tree Maintenance Services,26,2016,6,3
+CLOSED,2016-07-05,2016-07-22,,Graffiti,Graffiti Removal,17,2016,7,1
+CLOSED,2015-08-12,2016-08-25,,Roads and Traffic,Traffic Management,379,2015,8,2
+CLOSED,2016-08-22,2016-08-24,,"Waste, Street Cleaning and Litter",Missing Bin,2,2016,8,0
+CLOSED,2016-07-11,2016-07-20,North Melbourne,Graffiti,Graffiti Removal,9,2016,7,0
+CLOSED,2016-08-02,2016-08-10,,"Waste, Street Cleaning and Litter",Dumped Rubbish,8,2016,8,1
+CLOSED,2016-07-05,2016-07-12,North Melbourne,"Waste, Street Cleaning and Litter",Damaged Bins,7,2016,7,1
+CLOSED,2016-08-14,2016-08-15,,"Waste, Street Cleaning and Litter",Public Litter Bin,1,2016,8,6
+CLOSED,2016-07-09,2016-07-13,East Melbourne,Parks and Trees,Condition of Assets in Parks,4,2016,7,5
+CLOSED,2016-08-28,2016-08-29,West Melbourne,Parks and Trees,Sport and Playground Facilities,1,2016,8,6
+CLOSED,2016-06-05,2016-07-05,,"Waste, Street Cleaning and Litter",Public Litter Bin,30,2016,6,6
+CLOSED,2016-07-18,2016-07-19,Carlton,Graffiti,Graffiti Removal,1,2016,7,0
+CLOSED,2016-07-21,2016-07-25,,Graffiti,Graffiti Removal,4,2016,7,3
+CLOSED,2016-07-12,2016-08-03,,"Waste, Street Cleaning and Litter",Waste collection services,22,2016,7,1
+CLOSED,2016-09-05,2016-09-07,Kensington,"Waste, Street Cleaning and Litter",Public Litter Bin,2,2016,9,0
+CLOSED,2016-07-14,2016-08-04,North Melbourne,Graffiti,Graffiti Removal,21,2016,7,3
+CLOSED,2016-08-12,2016-08-25,North Melbourne,Graffiti,Graffiti Removal,13,2016,8,4
+CLOSED,2016-09-06,2016-09-08,,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2016,9,1
+CLOSED,2016-08-24,2016-09-05,,Graffiti,Graffiti Removal,12,2016,8,2
+CLOSED,2016-07-11,2016-07-12,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2016,7,0
+CLOSED,2016-07-11,2016-08-02,,Graffiti,Graffiti Removal,22,2016,7,0
+CLOSED,2016-08-20,2016-08-22,Docklands,Parks and Trees,Sport and Playground Facilities,2,2016,8,5
+CLOSED,2016-08-05,2016-08-18,Melbourne,"Waste, Street Cleaning and Litter",Missing Bin,13,2016,8,4
+CLOSED,2016-07-29,2016-08-03,,"Waste, Street Cleaning and Litter",Waste Compactor,5,2016,7,4
+CLOSED,2016-09-06,2016-09-09,Kensington,"Waste, Street Cleaning and Litter",Missed Bin Collection,3,2016,9,1
+CLOSED,2016-07-27,2016-07-27,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,7,2
+CLOSED,2016-08-30,2016-09-01,Southbank,Roads and Traffic,Road and Footpath Maintenance,2,2016,8,1
+CLOSED,2016-07-13,2016-07-20,Carlton,"Waste, Street Cleaning and Litter",Missing Bin,7,2016,7,2
+CLOSED,2016-08-09,2016-09-05,Parkville,Graffiti,Graffiti Removal,27,2016,8,1
+CLOSED,2016-08-26,2016-08-30,,"Waste, Street Cleaning and Litter",Missing Bin,4,2016,8,4
+CLOSED,2016-09-08,2016-09-08,North Melbourne,Graffiti,Graffiti Removal,1,2016,9,3
+CLOSED,2016-08-01,2016-08-17,,Graffiti,Graffiti Removal,16,2016,8,0
+CLOSED,2016-07-21,2016-07-25,,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,7,3
+CLOSED,2016-07-14,2016-07-20,,Roads and Traffic,Road and Footpath Maintenance,6,2016,7,3
+CLOSED,2016-07-18,2016-08-08,,Roads and Traffic,Road and Footpath Maintenance,21,2016,7,0
+CLOSED,2016-06-22,2016-07-13,,Graffiti,Graffiti Removal,21,2016,6,2
+CLOSED,2016-08-29,2016-08-30,South Yarra,"Waste, Street Cleaning and Litter",Damaged Bins,1,2016,8,0
+CLOSED,2016-06-10,2016-06-28,North Melbourne,Parks and Trees,Tree Maintenance Services,18,2016,6,4
+CLOSED,2016-06-15,2016-07-13,,Roads and Traffic,Road and Footpath Maintenance,28,2016,6,2
+CLOSED,2016-08-17,2016-09-02,,Graffiti,Graffiti Removal,16,2016,8,2
+CLOSED,2016-06-30,2016-07-15,,Roads and Traffic,Road and Footpath Maintenance,15,2016,6,3
+CLOSED,2016-06-16,2016-06-30,Docklands,Roads and Traffic,Road and Footpath Maintenance,14,2016,6,3
+CLOSED,2016-08-11,2016-08-15,West Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,8,3
+CLOSED,2016-08-24,2016-08-24,Melbourne,Graffiti,Graffiti Removal,1,2016,8,2
+CLOSED,2016-08-04,2016-08-08,Kensington,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,8,3
+CLOSED,2016-06-28,2016-07-04,,Roads and Traffic,Road and Footpath Maintenance,6,2016,6,1
+CLOSED,2016-08-30,2016-09-05,,Roads and Traffic,Road and Footpath Maintenance,6,2016,8,1
+CLOSED,2016-07-01,2016-07-06,,"Waste, Street Cleaning and Litter",Damaged Bins,5,2016,7,4
+CLOSED,2016-02-26,2016-07-18,Melbourne,Graffiti,Graffiti Removal,143,2016,2,4
+CLOSED,2016-03-22,2016-07-07,Carlton,Roads and Traffic,Traffic Management,107,2016,3,1
+CLOSED,2016-06-22,2016-07-04,,"Waste, Street Cleaning and Litter",Street Cleaning services,12,2016,6,2
+CLOSED,2016-07-19,2016-07-25,Carlton,"Waste, Street Cleaning and Litter",Public Litter Bin,6,2016,7,1
+CLOSED,2016-08-31,2016-09-01,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,8,2
+CLOSED,2016-04-13,2016-07-22,Melbourne,Graffiti,Graffiti Removal,100,2016,4,2
+CLOSED,2016-07-18,2016-07-21,,Graffiti,Graffiti Removal,3,2016,7,0
+CLOSED,2016-08-17,2016-09-06,,Roads and Traffic,Road and Footpath Maintenance,20,2016,8,2
+CLOSED,2016-08-17,2016-08-17,,Roads and Traffic,Road and Footpath Maintenance,1,2016,8,2
+CLOSED,2016-07-11,2016-08-03,Melbourne,Graffiti,Graffiti Removal,23,2016,7,0
+CLOSED,2016-07-14,2016-07-21,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,7,2016,7,3
+CLOSED,2016-08-29,2016-09-01,Kensington,"Waste, Street Cleaning and Litter",Damaged Bins,3,2016,8,0
+CLOSED,2016-07-30,2016-08-02,,"Waste, Street Cleaning and Litter",Missed Bin Collection,3,2016,7,5
+CLOSED,2016-08-29,2016-08-30,North Melbourne,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,8,0
+CLOSED,2016-07-25,2016-08-24,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,30,2016,7,0
+CLOSED,2016-07-20,2016-07-25,,"Waste, Street Cleaning and Litter",Public Litter Bin,5,2016,7,2
+CLOSED,2015-08-10,2016-07-28,Kensington,Roads and Traffic,Traffic Management,353,2015,8,0
+CLOSED,2016-07-15,2016-07-21,Docklands,"Waste, Street Cleaning and Litter",Missed Bin Collection,6,2016,7,4
+CLOSED,2016-06-24,2016-07-21,,Parks and Trees,Condition of Assets in Parks,27,2016,6,4
+CLOSED,2016-07-21,2016-07-27,,"Waste, Street Cleaning and Litter",Damaged Bins,6,2016,7,3
+CLOSED,2016-08-19,2016-08-25,Kensington,"Waste, Street Cleaning and Litter",Waste collection services,6,2016,8,4
+CLOSED,2016-08-28,2016-08-31,,"Waste, Street Cleaning and Litter",Dumped Rubbish,3,2016,8,6
+CLOSED,2016-06-20,2016-06-29,Parkville,Graffiti,Graffiti Removal,9,2016,6,0
+CLOSED,2016-08-10,2016-08-12,,Parks and Trees,Tree Maintenance Services,2,2016,8,2
+CLOSED,2016-07-01,2016-07-06,,Roads and Traffic,Road and Footpath Maintenance,5,2016,7,4
+CLOSED,2016-08-16,2016-08-17,,Asset maintenance,Street Lighting Maintenance,1,2016,8,1
+CLOSED,2016-07-01,2016-08-15,,Graffiti,Graffiti Removal,45,2016,7,4
+CLOSED,2016-07-25,2016-08-23,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,29,2016,7,0
+CLOSED,2016-08-13,2016-08-18,,"Waste, Street Cleaning and Litter",Missing Bin,5,2016,8,5
+CLOSED,2016-06-09,2016-08-15,Kensington,Parks and Trees,Tree Maintenance Services,67,2016,6,3
+CLOSED,2016-08-05,2016-08-09,Parkville,"Waste, Street Cleaning and Litter",Dumped Rubbish,4,2016,8,4
+CLOSED,2016-07-28,2016-07-28,,Graffiti,Graffiti Removal,1,2016,7,3
+CLOSED,2016-08-04,2016-08-18,Melbourne,"Waste, Street Cleaning and Litter",Damaged Bins,14,2016,8,3
+CLOSED,2016-07-11,2016-07-18,Carlton,Parks and Trees,Tree Maintenance Services,7,2016,7,0
+CLOSED,2016-07-14,2016-07-26,,"Waste, Street Cleaning and Litter",Missing Bin,12,2016,7,3
+CLOSED,2016-06-30,2016-07-04,Melbourne,"Waste, Street Cleaning and Litter",Missing Bin,4,2016,6,3
+CLOSED,2016-08-30,2016-09-02,,Parks and Trees,Tree Maintenance Services,3,2016,8,1
+CLOSED,2016-07-12,2016-07-14,Carlton,"Waste, Street Cleaning and Litter",Missing Bin,2,2016,7,1
+CLOSED,2016-08-01,2016-08-01,,Parking,Parking Compliance Services,1,2016,8,0
+CLOSED,2016-09-01,2016-09-03,,"Waste, Street Cleaning and Litter",Waste collection services,2,2016,9,3
+CLOSED,2016-07-28,2016-08-02,,"Waste, Street Cleaning and Litter",Missed Bin Collection,5,2016,7,3
+CLOSED,2016-09-05,2016-09-09,,Roads and Traffic,Traffic Management,4,2016,9,0
+CLOSED,2016-08-01,2016-08-08,Melbourne,Graffiti,Graffiti Removal,7,2016,8,0
+CLOSED,2016-08-11,2016-08-12,West Melbourne,Graffiti,Graffiti Removal,1,2016,8,3
+CLOSED,2016-07-18,2016-08-12,,Graffiti,Graffiti Removal,25,2016,7,0
+CLOSED,2016-07-27,2016-07-28,Kensington,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,7,2
+CLOSED,2016-08-12,2016-08-15,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,3,2016,8,4
+CLOSED,2016-08-05,2016-08-30,,"Waste, Street Cleaning and Litter",Waste collection services,25,2016,8,4
+CLOSED,2016-09-02,2016-09-07,,Parks and Trees,Tree Maintenance Services,5,2016,9,4
+CLOSED,2016-08-08,2016-08-24,,Graffiti,Graffiti Removal,16,2016,8,0
+CLOSED,2016-06-22,2016-06-29,,Graffiti,Graffiti Removal,7,2016,6,2
+CLOSED,2016-07-25,2016-08-12,,Parks and Trees,Tree Maintenance Services,18,2016,7,0
+CLOSED,2016-07-12,2016-07-12,,Roads and Traffic,Road and Footpath Maintenance,1,2016,7,1
+CLOSED,2016-06-27,2016-07-22,,Asset maintenance,Street Lighting Maintenance,25,2016,6,0
+CLOSED,2016-07-08,2016-07-14,Melbourne,"Waste, Street Cleaning and Litter",Public Litter Bin,6,2016,7,4
+CLOSED,2016-08-04,2016-08-04,Melbourne,Parks and Trees,Condition of Assets in Parks,1,2016,8,3
+CLOSED,2016-08-03,2016-08-22,,Graffiti,Graffiti Removal,19,2016,8,2
+CLOSED,2016-07-16,2016-07-19,,"Waste, Street Cleaning and Litter",Public Litter Bin,3,2016,7,5
+CLOSED,2016-08-02,2016-08-17,,Graffiti,Graffiti Removal,15,2016,8,1
+CLOSED,2016-08-30,2016-09-02,South Yarra,"Waste, Street Cleaning and Litter",Missed Bin Collection,3,2016,8,1
+CLOSED,2016-08-03,2016-08-16,Carlton,Graffiti,Graffiti Removal,13,2016,8,2
+CLOSED,2016-06-19,2016-06-28,Kensington,Graffiti,Graffiti Removal,9,2016,6,6
+CLOSED,2016-07-05,2016-07-14,,"Waste, Street Cleaning and Litter",Damaged Bins,9,2016,7,1
+CLOSED,2016-07-08,2016-07-11,,"Waste, Street Cleaning and Litter",Street Cleaning services,3,2016,7,4
+CLOSED,2016-06-24,2016-07-04,Carlton,Graffiti,Graffiti Removal,10,2016,6,4
+CLOSED,2016-09-05,2016-09-09,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,9,0
+CLOSED,2016-06-16,2016-06-28,,Graffiti,Graffiti Removal,12,2016,6,3
+CLOSED,2015-11-27,2016-08-01,,Roads and Traffic,Traffic Management,248,2015,11,4
+CLOSED,2016-06-29,2016-07-06,,Roads and Traffic,Road and Footpath Maintenance,7,2016,6,2
+CLOSED,2016-08-05,2016-08-09,,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,8,4
+CLOSED,2016-07-06,2016-07-11,Parkville,Parks and Trees,Condition of Assets in Parks,5,2016,7,2
+CLOSED,2016-07-12,2016-07-15,Melbourne,Graffiti,Graffiti Removal,3,2016,7,1
+CLOSED,2016-09-02,2016-09-02,,Parking,Parking Compliance Services,1,2016,9,4
+CLOSED,2016-07-04,2016-07-18,,Roads and Traffic,Road and Footpath Maintenance,14,2016,7,0
+CLOSED,2016-08-27,2016-09-05,Melbourne,Graffiti,Graffiti Removal,9,2016,8,5
+CLOSED,2016-09-06,2016-09-07,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,9,1
+CLOSED,2016-08-14,2016-08-23,,"Waste, Street Cleaning and Litter",Missing Bin,9,2016,8,6
+CLOSED,2016-07-04,2016-07-05,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,7,0
+CLOSED,2016-07-25,2016-07-26,East Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,7,0
+CLOSED,2016-08-02,2016-08-08,,"Waste, Street Cleaning and Litter",Missed Bin Collection,6,2016,8,1
+CLOSED,2016-08-01,2016-08-12,Kensington,Graffiti,Graffiti Removal,11,2016,8,0
+CLOSED,2016-07-01,2016-07-12,Melbourne,Graffiti,Graffiti Removal,11,2016,7,4
+CLOSED,2016-06-30,2016-07-01,Docklands,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,6,3
+CLOSED,2016-07-27,2016-08-02,Carlton,"Waste, Street Cleaning and Litter",Missed Bin Collection,6,2016,7,2
+CLOSED,2016-08-30,2016-09-06,Kensington,Graffiti,Graffiti Removal,7,2016,8,1
+CLOSED,2016-08-03,2016-08-10,,"Waste, Street Cleaning and Litter",Dumped Rubbish,7,2016,8,2
+CLOSED,2016-07-29,2016-08-26,,"Waste, Street Cleaning and Litter",Missed Bin Collection,28,2016,7,4
+CLOSED,2016-08-23,2016-08-23,Kensington,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,8,1
+CLOSED,2016-09-07,2016-09-08,West Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,9,2
+CLOSED,2016-08-11,2016-08-22,,Graffiti,Graffiti Removal,11,2016,8,3
+CLOSED,2016-08-11,2016-09-01,,"Waste, Street Cleaning and Litter",Waste collection services,21,2016,8,3
+CLOSED,2016-08-17,2016-08-18,Carlton,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,8,2
+CLOSED,2016-08-24,2016-08-25,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,8,2
+CLOSED,2016-07-27,2016-08-02,,Asset maintenance,Street Lighting Maintenance,6,2016,7,2
+CLOSED,2016-07-29,2016-08-11,,Roads and Traffic,Traffic Management,13,2016,7,4
+CLOSED,2016-08-18,2016-08-22,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,8,3
+CLOSED,2016-07-14,2016-07-26,Kensington,Parks and Trees,Tree Maintenance Services,12,2016,7,3
+CLOSED,2016-07-12,2016-07-13,,Graffiti,Graffiti Removal,1,2016,7,1
+CLOSED,2016-08-01,2016-08-08,Parkville,Parks and Trees,Lawns and Irrigation,7,2016,8,0
+CLOSED,2016-07-08,2016-07-15,,Graffiti,Graffiti Removal,7,2016,7,4
+CLOSED,2016-07-11,2016-07-20,,"Waste, Street Cleaning and Litter",Waste collection services,9,2016,7,0
+CLOSED,2016-07-11,2016-08-02,West Melbourne,Graffiti,Graffiti Removal,22,2016,7,0
+CLOSED,2016-08-10,2016-08-25,,Roads and Traffic,Road and Footpath Maintenance,15,2016,8,2
+CLOSED,2016-07-08,2016-07-13,,Roads and Traffic,Road and Footpath Maintenance,5,2016,7,4
+CLOSED,2016-07-01,2016-07-01,,Parking,Parking Compliance Services,1,2016,7,4
+CLOSED,2016-07-25,2016-08-12,Melbourne,Graffiti,Graffiti Removal,18,2016,7,0
+CLOSED,2016-09-01,2016-09-07,Melbourne,"Waste, Street Cleaning and Litter",Public Litter Bin,6,2016,9,3
+CLOSED,2016-08-26,2016-08-31,Melbourne,Graffiti,Graffiti Removal,5,2016,8,4
+CLOSED,2016-07-08,2016-07-12,,Asset maintenance,Street Lighting Maintenance,4,2016,7,4
+CLOSED,2016-07-28,2016-08-26,,Asset maintenance,Street Maintenance,29,2016,7,3
+CLOSED,2016-07-25,2016-07-29,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,7,0
+CLOSED,2016-06-24,2016-07-01,,Graffiti,Graffiti Removal,7,2016,6,4
+CLOSED,2016-08-09,2016-08-26,,Parks and Trees,Tree Maintenance Services,17,2016,8,1
+CLOSED,2016-07-21,2016-07-28,,"Waste, Street Cleaning and Litter",Missing Bin,7,2016,7,3
+CLOSED,2016-07-21,2016-07-29,Melbourne,Graffiti,Graffiti Removal,8,2016,7,3
+CLOSED,2016-08-28,2016-09-07,Melbourne,Graffiti,Graffiti Removal,10,2016,8,6
+CLOSED,2016-07-08,2016-07-12,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,7,4
+CLOSED,2016-08-09,2016-09-05,,Graffiti,Graffiti Removal,27,2016,8,1
+CLOSED,2016-05-27,2016-07-05,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,39,2016,5,4
+CLOSED,2016-08-11,2016-08-11,Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,1,2016,8,3
+CLOSED,2016-07-21,2016-07-25,Kensington,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,7,3
+CLOSED,2016-07-21,2016-07-25,,"Waste, Street Cleaning and Litter",Dumped Rubbish,4,2016,7,3
+CLOSED,2016-08-24,2016-08-25,,Parking,Parking Compliance Services,1,2016,8,2
+CLOSED,2016-07-11,2016-07-15,Carlton,Graffiti,Graffiti Removal,4,2016,7,0
+CLOSED,2016-08-25,2016-08-25,,Parking,Parking Meter Service,1,2016,8,3
+CLOSED,2016-07-19,2016-08-04,,"Waste, Street Cleaning and Litter",Waste collection services,16,2016,7,1
+CLOSED,2016-08-18,2016-09-06,,"Waste, Street Cleaning and Litter",Syringe pick-up services,19,2016,8,3
+CLOSED,2016-06-30,2016-07-01,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,6,3
+CLOSED,2016-08-03,2016-08-05,,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2016,8,2
+CLOSED,2016-04-22,2016-07-12,,Roads and Traffic,Traffic Management,81,2016,4,4
+CLOSED,2016-07-25,2016-07-26,,"Waste, Street Cleaning and Litter",Missing Bin,1,2016,7,0
+CLOSED,2016-08-31,2016-09-01,Kensington,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,8,2
+CLOSED,2016-09-01,2016-09-09,Southbank,"Waste, Street Cleaning and Litter",Missed Bin Collection,8,2016,9,3
+CLOSED,2016-07-15,2016-07-18,,Parks and Trees,Tree Maintenance Services,3,2016,7,4
+CLOSED,2016-08-07,2016-08-17,,Graffiti,Graffiti Removal,10,2016,8,6
+CLOSED,2016-07-28,2016-08-02,East Melbourne,Roads and Traffic,Road and Footpath Maintenance,5,2016,7,3
+CLOSED,2016-08-19,2016-08-22,Kensington,"Waste, Street Cleaning and Litter",Missed Bin Collection,3,2016,8,4
+CLOSED,2016-08-10,2016-08-12,,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2016,8,2
+CLOSED,2016-07-05,2016-07-11,,Graffiti,Graffiti Removal,6,2016,7,1
+CLOSED,2016-07-08,2016-07-12,Melbourne,Graffiti,Graffiti Removal,4,2016,7,4
+CLOSED,2016-08-30,2016-09-05,Carlton,"Waste, Street Cleaning and Litter",Waste collection services,6,2016,8,1
+CLOSED,2016-08-20,2016-08-22,,"Waste, Street Cleaning and Litter",Dumped Rubbish,2,2016,8,5
+CLOSED,2016-08-01,2016-08-24,Melbourne,Roads and Traffic,Road and Footpath Maintenance,23,2016,8,0
+CLOSED,2016-06-29,2016-07-04,North Melbourne,"Waste, Street Cleaning and Litter",Public Litter Bin,5,2016,6,2
+CLOSED,2016-08-22,2016-08-22,,Graffiti,Graffiti Removal,1,2016,8,0
+CLOSED,2016-08-03,2016-08-03,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2016,8,2
+CLOSED,2016-07-02,2016-07-06,,Roads and Traffic,Traffic Management,4,2016,7,5
+CLOSED,2016-06-14,2016-07-18,,Parks and Trees,Tree Maintenance Services,34,2016,6,1
+CLOSED,2016-06-17,2016-06-28,,Graffiti,Graffiti Removal,11,2016,6,4
+CLOSED,2016-08-23,2016-08-25,,"Waste, Street Cleaning and Litter",Street Cleaning services,2,2016,8,1
+CLOSED,2016-06-18,2016-07-10,Kensington,"Waste, Street Cleaning and Litter",Missed Bin Collection,22,2016,6,5
+CLOSED,2016-08-12,2016-08-12,East Melbourne,Parks and Trees,Condition of Assets in Parks,1,2016,8,4
+CLOSED,2016-07-06,2016-07-11,North Melbourne,Graffiti,Graffiti Removal,5,2016,7,2
+CLOSED,2016-07-21,2016-08-10,,Graffiti,Graffiti Removal,20,2016,7,3
+CLOSED,2016-08-06,2016-08-09,Carlton,"Waste, Street Cleaning and Litter",Public Litter Bin,3,2016,8,5
+CLOSED,2016-08-11,2016-08-15,Kensington,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,8,3
+CLOSED,2015-11-15,2016-07-04,,"Waste, Street Cleaning and Litter",Waste collection services,232,2015,11,6
+CLOSED,2016-08-05,2016-08-11,East Melbourne,Parks and Trees,Tree Maintenance Services,6,2016,8,4
+CLOSED,2016-02-22,2016-08-11,Southbank,Asset maintenance,Street Maintenance,171,2016,2,0
+CLOSED,2016-07-27,2016-07-29,,"Waste, Street Cleaning and Litter",Street Cleaning services,2,2016,7,2
+CLOSED,2016-08-31,2016-09-02,,"Waste, Street Cleaning and Litter",Dumped Rubbish,2,2016,8,2
+CLOSED,2016-07-28,2016-08-18,,Graffiti,Graffiti Removal,21,2016,7,3
+CLOSED,2016-06-30,2016-07-01,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,6,3
+CLOSED,2016-07-15,2016-07-19,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,7,4
+CLOSED,2016-08-04,2016-08-22,,Roads and Traffic,Road and Footpath Maintenance,18,2016,8,3
+CLOSED,2016-08-26,2016-09-06,North Melbourne,Graffiti,Graffiti Removal,11,2016,8,4
+CLOSED,2016-08-04,2016-08-04,,Roads and Traffic,Drain Maintenance,1,2016,8,3
+CLOSED,2016-08-07,2016-08-12,,"Waste, Street Cleaning and Litter",Dumped Rubbish,5,2016,8,6
+CLOSED,2016-06-29,2016-07-04,Carlton,Parks and Trees,Tree Maintenance Services,5,2016,6,2
+CLOSED,2016-06-06,2016-06-28,,Graffiti,Graffiti Removal,22,2016,6,0
+CLOSED,2016-08-03,2016-08-22,,Parks and Trees,Tree Maintenance Services,19,2016,8,2
+CLOSED,2016-07-27,2016-07-29,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2016,7,2
+CLOSED,2016-06-20,2016-07-06,Southbank,"Waste, Street Cleaning and Litter",Damaged Bins,16,2016,6,0
+CLOSED,2016-07-14,2016-08-04,Melbourne,Graffiti,Graffiti Removal,21,2016,7,3
+CLOSED,2016-09-05,2016-09-09,,"Waste, Street Cleaning and Litter",Dumped Rubbish,4,2016,9,0
+CLOSED,2016-07-01,2016-07-08,,"Waste, Street Cleaning and Litter",Missing Bin,7,2016,7,4
+CLOSED,2016-08-17,2016-08-30,North Melbourne,Graffiti,Graffiti Removal,13,2016,8,2
+CLOSED,2016-09-02,2016-09-08,South Yarra,"Waste, Street Cleaning and Litter",Missing Bin,6,2016,9,4
+CLOSED,2016-06-30,2016-07-01,West Melbourne,"Waste, Street Cleaning and Litter",Syringe pick-up services,1,2016,6,3
+CLOSED,2016-07-08,2016-07-14,,Graffiti,Graffiti Removal,6,2016,7,4
+CLOSED,2016-07-19,2016-07-26,Melbourne,"Waste, Street Cleaning and Litter",Missing Bin,7,2016,7,1
+CLOSED,2016-06-16,2016-07-10,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,24,2016,6,3
+CLOSED,2016-08-12,2016-08-22,,"Waste, Street Cleaning and Litter",Missed Bin Collection,10,2016,8,4
+CLOSED,2016-08-11,2016-08-16,Docklands,Graffiti,Graffiti Removal,5,2016,8,3
+CLOSED,2016-07-01,2016-07-06,,Roads and Traffic,Traffic Management,5,2016,7,4
+CLOSED,2016-07-22,2016-08-15,Flemington,Parks and Trees,Tree Maintenance Services,24,2016,7,4
+CLOSED,2016-09-07,2016-09-09,South Yarra,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2016,9,2
+CLOSED,2016-06-21,2016-07-04,,Graffiti,Graffiti Removal,13,2016,6,1
+CLOSED,2016-06-23,2016-07-22,,Asset maintenance,Street Lighting Maintenance,29,2016,6,3
+CLOSED,2016-08-30,2016-08-30,Melbourne,Graffiti,Graffiti Removal,1,2016,8,1
+CLOSED,2016-08-31,2016-09-08,Carlton,Parks and Trees,Lawns and Irrigation,8,2016,8,2
+CLOSED,2016-07-27,2016-07-29,,Roads and Traffic,Road and Footpath Maintenance,2,2016,7,2
+CLOSED,2015-04-30,2016-08-04,,Parking,Parking Meter Service,462,2015,4,3
+CLOSED,2016-06-30,2016-07-07,,"Waste, Street Cleaning and Litter",Dumped Rubbish,7,2016,6,3
+CLOSED,2016-06-27,2016-06-28,,"Waste, Street Cleaning and Litter",Syringe pick-up services,1,2016,6,0
+CLOSED,2016-08-01,2016-08-03,Melbourne,Graffiti,Graffiti Removal,2,2016,8,0
+CLOSED,2016-07-27,2016-07-28,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,7,2
+CLOSED,2016-08-01,2016-08-04,Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,3,2016,8,0
+CLOSED,2016-07-19,2016-07-21,,Asset maintenance,Street Maintenance,2,2016,7,1
+CLOSED,2016-08-03,2016-08-22,Carlton,Graffiti,Graffiti Removal,19,2016,8,2
+CLOSED,2016-07-01,2016-07-07,,"Waste, Street Cleaning and Litter",Dumped Rubbish,6,2016,7,4
+CLOSED,2016-07-22,2016-07-22,Carlton,Graffiti,Graffiti Removal,1,2016,7,4
+CLOSED,2016-06-20,2016-07-13,,Graffiti,Graffiti Removal,23,2016,6,0
+CLOSED,2016-07-14,2016-07-18,West Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,7,3
+CLOSED,2016-09-02,2016-09-06,Parkville,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,9,4
+CLOSED,2016-08-06,2016-08-06,,Parking,Parking Compliance Services,1,2016,8,5
+CLOSED,2016-07-13,2016-07-15,,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2016,7,2
+CLOSED,2016-07-14,2016-07-25,,Parks and Trees,Condition of Assets in Parks,11,2016,7,3
+CLOSED,2016-08-11,2016-08-16,,"Waste, Street Cleaning and Litter",Dumped Rubbish,5,2016,8,3
+CLOSED,2016-07-13,2016-07-14,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,7,2
+CLOSED,2016-07-04,2016-07-22,,Graffiti,Graffiti Removal,18,2016,7,0
+CLOSED,2016-07-18,2016-08-11,Parkville,Parks and Trees,Condition of Assets in Parks,24,2016,7,0
+CLOSED,2016-07-26,2016-07-28,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2016,7,1
+CLOSED,2016-06-16,2016-07-04,Melbourne,Graffiti,Graffiti Removal,18,2016,6,3
+CLOSED,2016-03-03,2016-07-20,,Roads and Traffic,Road and Footpath Maintenance,139,2016,3,3
+CLOSED,2016-06-15,2016-06-29,,Parks and Trees,Tree Maintenance Services,14,2016,6,2
+CLOSED,2016-08-26,2016-08-30,Melbourne,Graffiti,Graffiti Removal,4,2016,8,4
+CLOSED,2016-07-21,2016-07-25,Carlton,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,7,3
+CLOSED,2016-08-30,2016-08-31,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,8,1
+CLOSED,2016-06-28,2016-07-11,,"Waste, Street Cleaning and Litter",Waste collection services,13,2016,6,1
+CLOSED,2016-10-10,2016-10-12,Parkville,Parks and Trees,Lawns and Irrigation,2,2016,10,0
+CLOSED,2016-10-14,2016-10-14,,Roads and Traffic,Traffic Management,1,2016,10,4
+CLOSED,2016-09-22,2016-10-04,,Parks and Trees,Tree Maintenance Services,12,2016,9,3
+CLOSED,2016-09-19,2016-10-04,,Parks and Trees,Tree Maintenance Services,15,2016,9,0
+CLOSED,2016-10-28,2016-11-04,Melbourne,Graffiti,Graffiti Removal,7,2016,10,4
+CLOSED,2016-10-04,2016-10-14,Docklands,Parks and Trees,Condition of Assets in Parks,10,2016,10,1
+CLOSED,2016-10-12,2016-10-12,,Roads and Traffic,Drain Maintenance,1,2016,10,2
+CLOSED,2016-10-10,2016-10-10,Carlton,Graffiti,Graffiti Removal,1,2016,10,0
+CLOSED,2016-09-08,2016-09-20,,"Waste, Street Cleaning and Litter",Dumped Rubbish,12,2016,9,3
+CLOSED,2016-09-23,2016-09-23,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,9,4
+CLOSED,2016-10-12,2016-10-19,,Parks and Trees,Tree Maintenance Services,7,2016,10,2
+CLOSED,2016-10-31,2016-11-07,,"Waste, Street Cleaning and Litter",Public Litter Bin,7,2016,10,0
+CLOSED,2016-09-14,2016-09-15,Melbourne,Roads and Traffic,Road and Footpath Maintenance,1,2016,9,2
+CLOSED,2016-09-21,2016-09-26,,Roads and Traffic,Traffic Management,5,2016,9,2
+CLOSED,2016-09-14,2016-09-15,Southbank,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,9,2
+CLOSED,2016-09-28,2016-10-06,Kensington,Graffiti,Graffiti Removal,8,2016,9,2
+CLOSED,2016-09-23,2016-09-23,Carlton,Parks and Trees,Condition of Assets in Parks,1,2016,9,4
+CLOSED,2016-09-08,2016-09-13,,Roads and Traffic,Drain Maintenance,5,2016,9,3
+CLOSED,2016-10-13,2016-10-20,,Roads and Traffic,Traffic Management,7,2016,10,3
+CLOSED,2016-10-03,2016-10-05,West Melbourne,Parks and Trees,Tree Maintenance Services,2,2016,10,0
+CLOSED,2016-09-15,2016-09-20,,Graffiti,Graffiti Removal,5,2016,9,3
+CLOSED,2016-10-23,2016-11-03,,Graffiti,Graffiti Removal,11,2016,10,6
+CLOSED,2016-09-21,2016-09-23,,"Waste, Street Cleaning and Litter",Waste collection services,2,2016,9,2
+CLOSED,2015-07-02,2015-07-03,,Graffiti,Graffiti Removal,1,2015,7,3
+CLOSED,2015-05-07,2015-06-18,,Roads and Traffic,Traffic Management,42,2015,5,3
+CLOSED,2015-06-24,2015-06-25,,"Waste, Street Cleaning and Litter",Missing Bin,1,2015,6,2
+CLOSED,2015-05-12,2015-05-15,,"Waste, Street Cleaning and Litter",Public Litter Bin,3,2015,5,1
+CLOSED,2015-06-09,2015-06-12,,Roads and Traffic,Traffic Management,3,2015,6,1
+CLOSED,2015-06-30,2015-07-21,,"Waste, Street Cleaning and Litter",Syringe pick-up services,21,2015,6,1
+CLOSED,2015-06-27,2015-06-29,,"Waste, Street Cleaning and Litter",Public Litter Bin,2,2015,6,5
+CLOSED,2015-06-19,2015-06-22,,"Waste, Street Cleaning and Litter",Waste collection services,3,2015,6,4
+CLOSED,2015-05-13,2015-05-20,,"Waste, Street Cleaning and Litter",Dumped Rubbish,7,2015,5,2
+CLOSED,2015-05-25,2015-06-30,,Graffiti,Graffiti Removal,36,2015,5,0
+CLOSED,2015-05-05,2015-05-08,,"Waste, Street Cleaning and Litter",Damaged Bins,3,2015,5,1
+CLOSED,2015-07-20,2015-08-31,,Asset maintenance,Street Lighting Maintenance,42,2015,7,0
+CLOSED,2015-06-29,2015-07-02,,Roads and Traffic,Road and Footpath Maintenance,3,2015,6,0
+CLOSED,2015-07-09,2015-12-16,,Parking,Parking Meter Service,160,2015,7,3
+CLOSED,2015-09-09,2015-09-11,,Parks and Trees,Lawns and Irrigation,2,2015,9,2
+CLOSED,2015-08-14,2015-08-14,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2015,8,4
+CLOSED,2015-06-27,2015-06-30,,"Waste, Street Cleaning and Litter",Dumped Rubbish,3,2015,6,5
+CLOSED,2015-06-02,2015-06-02,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2015,6,1
+CLOSED,2015-04-25,2015-04-27,,"Waste, Street Cleaning and Litter",Dumped Rubbish,2,2015,4,5
+CLOSED,2015-04-30,2016-06-15,,Parking,Parking Meter Service,412,2015,4,3
+CLOSED,2015-06-02,2015-06-03,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2015,6,1
+CLOSED,2015-09-21,2015-09-28,,Roads and Traffic,Traffic Management,7,2015,9,0
+CLOSED,2015-08-05,2015-08-12,,"Waste, Street Cleaning and Litter",Waste collection services,7,2015,8,2
+CLOSED,2015-07-02,2016-01-06,,Roads and Traffic,Traffic Management,188,2015,7,3
+CLOSED,2016-02-04,2016-04-11,,Parking,Parking Meter Service,67,2016,2,3
+CLOSED,2015-10-05,2015-10-09,,"Waste, Street Cleaning and Litter",Dumped Rubbish,4,2015,10,0
+CLOSED,2016-01-04,2016-01-11,,"Waste, Street Cleaning and Litter",Damaged Bins,7,2016,1,0
+CLOSED,2015-10-15,2015-10-19,,"Waste, Street Cleaning and Litter",Street Cleaning services,4,2015,10,3
+CLOSED,2016-05-09,2016-05-30,,"Waste, Street Cleaning and Litter",Waste collection services,21,2016,5,0
+CLOSED,2016-01-06,2016-01-15,,Roads and Traffic,Drain Maintenance,9,2016,1,2
+CLOSED,2015-10-01,2015-10-09,,"Waste, Street Cleaning and Litter",Dumped Rubbish,8,2015,10,3
+CLOSED,2016-05-07,2016-05-18,,"Waste, Street Cleaning and Litter",Waste collection services,11,2016,5,5
+CLOSED,2016-03-07,2016-03-09,,Roads and Traffic,Road and Footpath Maintenance,2,2016,3,0
+CLOSED,2016-05-29,2016-06-03,Melbourne,"Waste, Street Cleaning and Litter",Dumped Rubbish,5,2016,5,6
+CLOSED,2016-04-02,2016-04-11,Melbourne,Graffiti,Graffiti Removal,9,2016,4,5
+CLOSED,2016-04-18,2016-04-26,Southbank,Parks and Trees,Tree Maintenance Services,8,2016,4,0
+CLOSED,2016-04-19,2016-04-27,Carlton North,Graffiti,Graffiti Removal,8,2016,4,1
+CLOSED,2016-03-24,2016-03-31,West Melbourne,"Waste, Street Cleaning and Litter",Public Litter Bin,7,2016,3,3
+CLOSED,2014-12-14,2014-12-17,North Melbourne,"Waste, Street Cleaning and Litter",Missing Bin,3,2014,12,6
+CLOSED,2015-02-13,2015-02-23,Carlton,Graffiti,Graffiti Removal,10,2015,2,4
+CLOSED,2015-02-24,2015-02-27,Carlton North,Graffiti,Graffiti Removal,3,2015,2,1
+CLOSED,2015-11-10,2015-11-12,Kensington,"Waste, Street Cleaning and Litter",Damaged Bins,2,2015,11,1
+CLOSED,2015-06-03,2015-06-23,Southbank,Parks and Trees,Tree Maintenance Services,20,2015,6,2
+CLOSED,2015-06-12,2015-06-22,Melbourne,Graffiti,Graffiti Removal,10,2015,6,4
+CLOSED,2015-05-04,2015-05-20,Carlton North,Graffiti,Graffiti Removal,16,2015,5,0
+CLOSED,2015-05-04,2015-06-04,North Melbourne,Parks and Trees,Park Cleaning,31,2015,5,0
+CLOSED,2014-11-19,2014-11-21,West Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,2,2014,11,2
+CLOSED,2015-08-23,2015-10-16,Melbourne,"Waste, Street Cleaning and Litter",Dumped Rubbish,54,2015,8,6
+CLOSED,2015-09-12,2015-09-12,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2015,9,5
+CLOSED,2015-11-17,2015-11-18,West Melbourne,Graffiti,Graffiti Removal,1,2015,11,1
+CLOSED,2015-10-05,2015-10-26,West Melbourne,Graffiti,Graffiti Removal,21,2015,10,0
+CLOSED,2015-05-25,2015-06-02,North Melbourne,Graffiti,Graffiti Removal,8,2015,5,0
+CLOSED,2015-10-31,2015-11-10,,"Waste, Street Cleaning and Litter",Waste collection services,10,2015,10,5
+CLOSED,2015-10-27,2015-11-30,,Roads and Traffic,Road and Footpath Maintenance,34,2015,10,1
+CLOSED,2015-11-02,2015-11-06,,"Waste, Street Cleaning and Litter",Dumped Rubbish,4,2015,11,0
+CLOSED,2015-10-30,2015-11-12,,Asset maintenance,Street Maintenance,13,2015,10,4
+CLOSED,2015-11-05,2015-12-11,,Graffiti,Graffiti Removal,36,2015,11,3
+CLOSED,2015-12-23,2015-12-31,,Graffiti,Graffiti Removal,8,2015,12,2
+CLOSED,2015-12-27,2016-01-05,,Parks and Trees,Tree Maintenance Services,9,2015,12,6
+CLOSED,2015-12-22,2016-01-06,,Graffiti,Graffiti Removal,15,2015,12,1
+CLOSED,2015-12-29,2015-12-30,,Roads and Traffic,Road and Footpath Maintenance,1,2015,12,1
+CLOSED,2015-12-31,2016-01-19,,Graffiti,Graffiti Removal,19,2015,12,3
+CLOSED,2015-12-30,2015-12-30,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2015,12,2
+CLOSED,2016-02-19,2016-02-25,,Roads and Traffic,Road and Footpath Maintenance,6,2016,2,4
+CLOSED,2016-02-18,2016-02-22,,"Waste, Street Cleaning and Litter",Waste collection services,4,2016,2,3
+CLOSED,2016-03-30,2016-03-31,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,3,2
+CLOSED,2016-04-04,2016-04-14,,"Waste, Street Cleaning and Litter",Waste collection services,10,2016,4,0
+CLOSED,2016-02-24,2016-02-26,,Parks and Trees,Tree Maintenance Services,2,2016,2,2
+CLOSED,2016-02-25,2016-02-29,,Graffiti,Graffiti Removal,4,2016,2,3
+CLOSED,2015-11-25,2015-11-27,,"Waste, Street Cleaning and Litter",Missing Bin,2,2015,11,2
+CLOSED,2016-04-08,2016-04-13,,"Waste, Street Cleaning and Litter",Dumped Rubbish,5,2016,4,4
+CLOSED,2016-04-08,2016-04-20,,"Waste, Street Cleaning and Litter",Syringe pick-up services,12,2016,4,4
+CLOSED,2016-04-04,2016-04-08,,"Waste, Street Cleaning and Litter",Dumped Rubbish,4,2016,4,0
+CLOSED,2016-04-11,2016-04-15,,Roads and Traffic,Drain Maintenance,4,2016,4,0
+CLOSED,2016-05-20,2016-05-30,,Parks and Trees,Tree Maintenance Services,10,2016,5,4
+CLOSED,2016-05-17,2016-05-20,,"Waste, Street Cleaning and Litter",Waste collection services,3,2016,5,1
+CLOSED,2016-04-19,2016-04-21,,Asset maintenance,Street Lighting Maintenance,2,2016,4,1
+CLOSED,2016-05-18,2016-06-06,,Graffiti,Graffiti Removal,19,2016,5,2
+CLOSED,2016-05-24,2016-06-06,,Graffiti,Graffiti Removal,13,2016,5,1
+CLOSED,2015-11-10,2015-12-14,,"Waste, Street Cleaning and Litter",Damaged Bins,34,2015,11,1
+CLOSED,2015-11-10,2015-12-23,,Parking,Parking Meter Service,43,2015,11,1
+CLOSED,2015-11-09,2015-11-17,,Graffiti,Graffiti Removal,8,2015,11,0
+CLOSED,2015-11-10,2015-11-10,,"Waste, Street Cleaning and Litter",Syringe pick-up services,1,2015,11,1
+CLOSED,2015-11-11,2015-11-12,,"Waste, Street Cleaning and Litter",Public Litter Bin,1,2015,11,2
+CLOSED,2016-04-13,2016-04-13,,"Waste, Street Cleaning and Litter",Syringe pick-up services,1,2016,4,2
+CLOSED,2016-05-17,2016-05-17,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,5,1
+CLOSED,2015-11-12,2015-11-17,,Roads and Traffic,Road and Footpath Maintenance,5,2015,11,3
+CLOSED,2016-04-25,2016-04-26,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,4,0
+CLOSED,2015-11-12,2015-12-11,,Graffiti,Graffiti Removal,29,2015,11,3
+CLOSED,2016-04-20,2016-04-21,,Roads and Traffic,Road and Footpath Maintenance,1,2016,4,2
+CLOSED,2015-11-13,2015-11-16,,"Waste, Street Cleaning and Litter",Damaged Bins,3,2015,11,4
+CLOSED,2016-04-29,2016-05-13,,Roads and Traffic,Traffic Management,14,2016,4,4
+CLOSED,2016-05-25,2016-05-25,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,5,2
+CLOSED,2016-05-25,2016-06-02,,"Waste, Street Cleaning and Litter",Dumped Rubbish,8,2016,5,2
+CLOSED,2016-05-26,2016-06-01,,"Waste, Street Cleaning and Litter",Dumped Rubbish,6,2016,5,3
+CLOSED,2016-06-01,2016-06-10,,Graffiti,Graffiti Removal,9,2016,6,2
+CLOSED,2016-06-06,2016-06-10,,"Waste, Street Cleaning and Litter",Damaged Bins,4,2016,6,0
+CLOSED,2016-06-02,2016-06-08,,Parks and Trees,Tree Maintenance Services,6,2016,6,3
+CLOSED,2016-06-17,2016-06-23,,"Waste, Street Cleaning and Litter",Damaged Bins,6,2016,6,4
+CLOSED,2016-06-09,2016-06-10,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2016,6,3
+CLOSED,2014-11-24,2014-11-28,Carlton,Roads and Traffic,Road and Footpath Maintenance,4,2014,11,0
+CLOSED,2015-01-12,2015-02-03,,Roads and Traffic,Traffic Management,22,2015,1,0
+CLOSED,2014-12-08,2014-12-10,Kensington,"Waste, Street Cleaning and Litter",Damaged Bins,2,2014,12,0
+CLOSED,2014-11-21,2014-11-21,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2014,11,4
+CLOSED,2015-01-21,2015-01-23,,Graffiti,Graffiti Removal,2,2015,1,2
+CLOSED,2014-12-08,2014-12-09,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2014,12,0
+CLOSED,2014-12-11,2014-12-15,,"Waste, Street Cleaning and Litter",Damaged Bins,4,2014,12,3
+CLOSED,2016-01-06,2016-01-06,Southbank,Parking,Parking Compliance Services,1,2016,1,2
+CLOSED,2016-02-03,2016-02-23,East Melbourne,Parks and Trees,Condition of Assets in Parks,20,2016,2,2
+CLOSED,2015-08-05,2015-08-06,Kensington,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2015,8,2
+CLOSED,2015-09-21,2015-10-13,North Melbourne,Graffiti,Graffiti Removal,22,2015,9,0
+CLOSED,2016-06-01,2016-06-03,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2016,6,2
+CLOSED,2015-12-02,2015-12-11,,Parks and Trees,Tree Maintenance Services,9,2015,12,2
+CLOSED,2015-12-07,2015-12-09,,Asset maintenance,Street Lighting Maintenance,2,2015,12,0
+CLOSED,2015-08-16,2015-08-20,Melbourne,Graffiti,Graffiti Removal,4,2015,8,6
+CLOSED,2016-02-25,2016-02-27,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2016,2,3
+CLOSED,2016-05-14,2016-05-18,Melbourne,Graffiti,Graffiti Removal,4,2016,5,5
+CLOSED,2016-02-25,2016-02-29,Kensington,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,2,3
+CLOSED,2015-12-22,2015-12-23,Kensington,Parks and Trees,Tree Maintenance Services,1,2015,12,1
+CLOSED,2016-03-04,2016-03-08,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,3,4
+CLOSED,2016-05-10,2016-05-12,Southbank,"Waste, Street Cleaning and Litter",Damaged Bins,2,2016,5,1
+CLOSED,2015-01-23,2015-01-23,Parkville,Parking,Parking Compliance Services,1,2015,1,4
+CLOSED,2015-06-26,2015-07-02,Melbourne,Graffiti,Graffiti Removal,6,2015,6,4
+CLOSED,2015-08-26,2015-08-27,East Melbourne,Parks and Trees,Tree Maintenance Services,1,2015,8,2
+CLOSED,2016-01-12,2016-01-13,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,1,1
+CLOSED,2014-12-02,2014-12-02,East Melbourne,Parking,Parking Compliance Services,1,2014,12,1
+CLOSED,2016-02-18,2016-03-08,Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,19,2016,2,3
+CLOSED,2015-10-26,2015-11-18,Carlton,Graffiti,Graffiti Removal,23,2015,10,0
+CLOSED,2016-04-18,2016-04-20,Melbourne,Asset maintenance,Public Toilets,2,2016,4,0
+CLOSED,2015-07-02,2015-07-09,Kensington,"Waste, Street Cleaning and Litter",Damaged Bins,7,2015,7,3
+CLOSED,2016-01-22,2016-01-27,West Melbourne,"Waste, Street Cleaning and Litter",Damaged Bins,5,2016,1,4
+CLOSED,2015-07-28,2015-08-25,Melbourne,Graffiti,Graffiti Removal,28,2015,7,1
+CLOSED,2015-10-30,2015-12-03,,Graffiti,Graffiti Removal,34,2015,10,4
+CLOSED,2015-11-02,2015-11-06,,Asset maintenance,Public Toilets,4,2015,11,0
+CLOSED,2015-12-22,2015-12-22,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2015,12,1
+CLOSED,2016-08-17,2016-08-24,,"Waste, Street Cleaning and Litter",Damaged Bins,7,2016,8,2
+CLOSED,2016-09-01,2016-09-09,,Roads and Traffic,Traffic Management,8,2016,9,3
+CLOSED,2016-06-21,2016-07-18,North Melbourne,Parks and Trees,Tree Maintenance Services,27,2016,6,1
+CLOSED,2016-07-01,2016-07-15,,Roads and Traffic,Traffic Management,14,2016,7,4
+CLOSED,2016-09-08,2016-09-09,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,9,3
+CLOSED,2016-07-29,2016-07-29,,Graffiti,Graffiti Removal,1,2016,7,4
+CLOSED,2016-08-22,2016-08-30,,"Waste, Street Cleaning and Litter",Missed Bin Collection,8,2016,8,0
+CLOSED,2016-08-18,2016-08-26,,Roads and Traffic,Road and Footpath Maintenance,8,2016,8,3
+CLOSED,2016-08-01,2016-08-23,North Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,22,2016,8,0
+CLOSED,2016-08-26,2016-08-26,Melbourne,Parking,Parking Compliance Services,1,2016,8,4
+CLOSED,2016-06-30,2016-08-01,,Asset maintenance,Street Maintenance,32,2016,6,3
+CLOSED,2016-07-08,2016-07-12,Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,4,2016,7,4
+CLOSED,2016-07-17,2016-07-29,Melbourne,Graffiti,Graffiti Removal,12,2016,7,6
+CLOSED,2016-09-05,2016-09-07,,"Waste, Street Cleaning and Litter",Damaged Bins,2,2016,9,0
+CLOSED,2016-08-24,2016-08-30,East Melbourne,Graffiti,Graffiti Removal,6,2016,8,2
+CLOSED,2016-07-26,2016-07-27,,Roads and Traffic,Drain Maintenance,1,2016,7,1
+CLOSED,2016-07-07,2016-08-16,,"Waste, Street Cleaning and Litter",Dumped Rubbish,40,2016,7,3
+CLOSED,2016-08-01,2016-08-09,Melbourne,Roads and Traffic,Road and Footpath Maintenance,8,2016,8,0
+CLOSED,2016-07-28,2016-09-07,Kensington,Parks and Trees,Condition of Assets in Parks,41,2016,7,3
+CLOSED,2016-08-17,2016-08-26,West Melbourne,Graffiti,Graffiti Removal,9,2016,8,2
+CLOSED,2016-08-09,2016-08-11,South Yarra,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2016,8,1
+CLOSED,2016-07-04,2016-07-27,Melbourne,Graffiti,Graffiti Removal,23,2016,7,0
+CLOSED,2016-07-14,2016-07-18,,Roads and Traffic,Traffic Management,4,2016,7,3
+CLOSED,2016-07-07,2016-08-04,,Graffiti,Graffiti Removal,28,2016,7,3
+CLOSED,2016-07-08,2016-07-12,Kensington,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,7,4
+CLOSED,2016-07-14,2016-07-15,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2016,7,3
+CLOSED,2016-08-12,2016-08-15,,"Waste, Street Cleaning and Litter",Missed Bin Collection,3,2016,8,4
+CLOSED,2016-08-12,2016-09-05,,Graffiti,Graffiti Removal,24,2016,8,4
+CLOSED,2016-08-22,2016-09-07,Parkville,"Waste, Street Cleaning and Litter",Missing Bin,16,2016,8,0
+CLOSED,2016-08-08,2016-08-08,Docklands,Parking,Parking Compliance Services,1,2016,8,0
+CLOSED,2016-06-15,2016-07-06,,"Waste, Street Cleaning and Litter",Missed Bin Collection,21,2016,6,2
+CLOSED,2016-07-13,2016-07-19,,"Waste, Street Cleaning and Litter",Dumped Rubbish,6,2016,7,2
+CLOSED,2016-07-25,2016-09-08,,Graffiti,Graffiti Removal,45,2016,7,0
+CLOSED,2016-08-29,2016-09-02,Carlton,Graffiti,Graffiti Removal,4,2016,8,0
+CLOSED,2016-06-16,2016-06-28,North Melbourne,Graffiti,Graffiti Removal,12,2016,6,3
+CLOSED,2016-07-23,2016-07-26,Kensington,"Waste, Street Cleaning and Litter",Missed Bin Collection,3,2016,7,5
+CLOSED,2016-07-14,2016-07-15,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,7,3
+CLOSED,2016-09-06,2016-09-09,Southbank,"Waste, Street Cleaning and Litter",Missed Bin Collection,3,2016,9,1
+CLOSED,2016-08-03,2016-08-10,South Yarra,Parks and Trees,Lawns and Irrigation,7,2016,8,2
+CLOSED,2016-07-18,2016-07-22,,"Waste, Street Cleaning and Litter",Dumped Rubbish,4,2016,7,0
+CLOSED,2016-08-15,2016-08-22,,"Waste, Street Cleaning and Litter",Dumped Rubbish,7,2016,8,0
+CLOSED,2016-06-29,2016-07-01,South Yarra,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2016,6,2
+CLOSED,2016-06-28,2016-07-22,Melbourne,Graffiti,Graffiti Removal,24,2016,6,1
+CLOSED,2016-08-15,2016-08-24,,Graffiti,Graffiti Removal,9,2016,8,0
+CLOSED,2016-06-22,2016-06-29,,"Waste, Street Cleaning and Litter",Dumped Rubbish,7,2016,6,2
+CLOSED,2016-08-25,2016-08-26,,Parking,Parking Meter Service,1,2016,8,3
+CLOSED,2016-05-17,2016-06-28,,Graffiti,Graffiti Removal,42,2016,5,1
+CLOSED,2015-03-25,2015-03-26,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2015,3,2
+CLOSED,2014-11-26,2014-11-28,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2014,11,2
+CLOSED,2015-03-06,2015-03-11,North Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,5,2015,3,4
+CLOSED,2014-12-04,2014-12-05,West Melbourne,"Waste, Street Cleaning and Litter",Missing Bin,1,2014,12,3
+CLOSED,2015-12-15,2016-01-08,,Parks and Trees,Park Cleaning,24,2015,12,1
+CLOSED,2016-01-21,2016-01-22,,"Waste, Street Cleaning and Litter",Syringe pick-up services,1,2016,1,3
+CLOSED,2016-01-19,2016-01-22,,"Waste, Street Cleaning and Litter",Missed Bin Collection,3,2016,1,1
+CLOSED,2016-01-20,2016-01-21,,Parking,Parking Meter Service,1,2016,1,2
+CLOSED,2016-01-21,2016-02-10,,Asset maintenance,Street Lighting Maintenance,20,2016,1,3
+CLOSED,2016-01-22,2016-01-26,,"Waste, Street Cleaning and Litter",Public Litter Bin,4,2016,1,4
+CLOSED,2016-01-17,2016-01-17,,Parking,Parking Compliance Services,1,2016,1,6
+CLOSED,2016-03-13,2016-03-22,,Roads and Traffic,Road and Footpath Maintenance,9,2016,3,6
+CLOSED,2016-03-13,2016-04-08,,Asset maintenance,Street Maintenance,26,2016,3,6
+CLOSED,2016-06-20,2016-06-21,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,6,0
+CLOSED,2016-01-23,2016-02-02,,Parks and Trees,Tree Maintenance Services,10,2016,1,5
+CLOSED,2016-01-23,2016-01-29,,Asset maintenance,Street Maintenance,6,2016,1,5
+CLOSED,2016-03-02,2016-03-07,,Asset maintenance,Street Maintenance,5,2016,3,2
+CLOSED,2016-01-31,2016-02-02,,Roads and Traffic,Traffic Management,2,2016,1,6
+CLOSED,2016-03-18,2016-03-21,,"Waste, Street Cleaning and Litter",Syringe pick-up services,3,2016,3,4
+CLOSED,2016-10-12,2016-10-20,Parkville,"Waste, Street Cleaning and Litter",Waste collection services,8,2016,10,2
+CLOSED,2016-09-16,2016-09-23,Melbourne,"Waste, Street Cleaning and Litter",Public Litter Bin,7,2016,9,4
+CLOSED,2016-09-01,2016-09-20,,Roads and Traffic,Traffic Management,19,2016,9,3
+CLOSED,2016-09-14,2016-09-23,Melbourne,Roads and Traffic,Road and Footpath Maintenance,9,2016,9,2
+CLOSED,2016-10-10,2016-10-18,Carlton,Graffiti,Graffiti Removal,8,2016,10,0
+CLOSED,2016-09-16,2016-09-19,,Roads and Traffic,Road and Footpath Maintenance,3,2016,9,4
+CLOSED,2016-10-01,2016-10-06,,"Waste, Street Cleaning and Litter",Damaged Bins,5,2016,10,5
+CLOSED,2016-11-02,2016-11-04,,Roads and Traffic,Road and Footpath Maintenance,2,2016,11,2
+CLOSED,2016-09-14,2016-09-22,East Melbourne,Parks and Trees,Tree Maintenance Services,8,2016,9,2
+CLOSED,2016-10-17,2016-10-19,,"Waste, Street Cleaning and Litter",Dumped Rubbish,2,2016,10,0
+CLOSED,2016-09-19,2016-09-23,Parkville,Parks and Trees,Tree Maintenance Services,4,2016,9,0
+CLOSED,2016-09-16,2016-10-18,North Melbourne,Graffiti,Graffiti Removal,32,2016,9,4
+CLOSED,2016-02-09,2016-02-11,Kensington,Graffiti,Graffiti Removal,2,2016,2,1
+CLOSED,2016-09-07,2016-09-16,Parkville,Parks and Trees,Condition of Assets in Parks,9,2016,9,2
+CLOSED,2016-10-13,2016-10-21,,Roads and Traffic,Traffic Management,8,2016,10,3
+CLOSED,2016-02-10,2016-02-12,East Melbourne,Roads and Traffic,Road and Footpath Maintenance,2,2016,2,2
+CLOSED,2016-10-19,2016-10-21,,"Waste, Street Cleaning and Litter",Public Litter Bin,2,2016,10,2
+CLOSED,2015-09-08,2015-11-02,Melbourne,"Waste, Street Cleaning and Litter",Dumped Rubbish,55,2015,9,1
+CLOSED,2016-09-15,2016-10-03,Carlton,Graffiti,Graffiti Removal,18,2016,9,3
+CLOSED,2016-10-19,2016-10-26,Kensington,"Waste, Street Cleaning and Litter",Waste collection services,7,2016,10,2
+CLOSED,2016-10-27,2016-10-31,Carlton,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,10,3
+CLOSED,2015-11-06,2015-11-09,Carlton North,Parks and Trees,Park Cleaning,3,2015,11,4
+CLOSED,2016-09-27,2016-10-26,Kensington,Parks and Trees,Condition of Assets in Parks,29,2016,9,1
+CLOSED,2016-10-03,2016-11-02,Kensington,Graffiti,Graffiti Removal,30,2016,10,0
+CLOSED,2016-11-08,2016-11-08,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2016,11,1
+CLOSED,2016-03-23,2016-03-27,Carlton,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,3,2
+CLOSED,2016-06-15,2016-06-16,Carlton,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,6,2
+CLOSED,2016-09-20,2016-11-08,Melbourne,Graffiti,Graffiti Removal,49,2016,9,1
+CLOSED,2016-02-14,2016-03-29,,Asset maintenance,Street Maintenance,44,2016,2,6
+CLOSED,2016-04-18,2016-04-19,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,4,0
+CLOSED,2016-02-23,2016-02-24,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2016,2,1
+CLOSED,2015-11-12,2015-11-19,,"Waste, Street Cleaning and Litter",Street Cleaning services,7,2015,11,3
+CLOSED,2015-11-10,2015-11-13,,Roads and Traffic,Drain Maintenance,3,2015,11,1
+CLOSED,2016-03-31,2016-04-11,,Graffiti,Graffiti Removal,11,2016,3,3
+CLOSED,2016-04-13,2016-04-14,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,4,2
+CLOSED,2016-04-19,2016-04-21,,Graffiti,Graffiti Removal,2,2016,4,1
+CLOSED,2016-03-30,2016-04-08,,Roads and Traffic,Traffic Management,9,2016,3,2
+CLOSED,2016-02-24,2016-05-25,,Roads and Traffic,Traffic Management,91,2016,2,2
+CLOSED,2016-04-16,2016-04-26,,"Waste, Street Cleaning and Litter",Waste collection services,10,2016,4,5
+CLOSED,2016-05-24,2016-06-22,,Parks and Trees,Tree Maintenance Services,29,2016,5,1
+CLOSED,2015-11-14,2015-11-27,,"Waste, Street Cleaning and Litter",Waste collection services,13,2015,11,5
+CLOSED,2015-11-14,2015-11-23,,"Waste, Street Cleaning and Litter",Dumped Rubbish,9,2015,11,5
+CLOSED,2016-02-27,2016-02-27,,Parking,Parking Compliance Services,1,2016,2,5
+CLOSED,2016-01-11,2016-01-14,,Roads and Traffic,Drain Maintenance,3,2016,1,0
+CLOSED,2016-06-05,2016-06-10,,"Waste, Street Cleaning and Litter",Missing Bin,5,2016,6,6
+CLOSED,2015-12-22,2016-02-18,Kensington,Graffiti,Graffiti Removal,58,2015,12,1
+CLOSED,2016-06-14,2016-06-27,,"Waste, Street Cleaning and Litter",Missing Bin,13,2016,6,1
+CLOSED,2015-03-17,2015-04-01,Carlton,Graffiti,Graffiti Removal,15,2015,3,1
+CLOSED,2015-07-15,2015-07-17,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,2,2015,7,2
+CLOSED,2015-03-02,2015-03-04,Parkville,"Waste, Street Cleaning and Litter",Missing Bin,2,2015,3,0
+CLOSED,2015-03-02,2015-03-12,North Melbourne,Graffiti,Graffiti Removal,10,2015,3,0
+CLOSED,2014-12-01,2014-12-08,,Graffiti,Graffiti Removal,7,2014,12,0
+CLOSED,2015-03-03,2015-03-10,,Roads and Traffic,Road and Footpath Maintenance,7,2015,3,1
+CLOSED,2015-01-30,2015-03-11,,Asset maintenance,Street Maintenance,40,2015,1,4
+CLOSED,2015-01-05,2015-09-30,,Roads and Traffic,Traffic Management,268,2015,1,0
+CLOSED,2015-06-22,2015-06-30,,Asset maintenance,Street Maintenance,8,2015,6,0
+CLOSED,2014-11-22,2014-12-01,,Graffiti,Graffiti Removal,9,2014,11,5
+CLOSED,2015-03-30,2015-04-14,,Graffiti,Graffiti Removal,15,2015,3,0
+CLOSED,2015-07-05,2015-07-22,,Asset maintenance,Street Lighting Maintenance,17,2015,7,6
+CLOSED,2016-06-09,2016-06-14,Melbourne,Graffiti,Graffiti Removal,5,2016,6,3
+CLOSED,2015-03-04,2015-03-04,East Melbourne,Parks and Trees,Condition of Assets in Parks,1,2015,3,2
+CLOSED,2015-11-05,2015-12-14,,Graffiti,Graffiti Removal,39,2015,11,3
+CLOSED,2015-08-24,2015-08-27,East Melbourne,Parks and Trees,Condition of Assets in Parks,3,2015,8,0
+CLOSED,2015-05-08,2015-05-12,Parkville,Graffiti,Graffiti Removal,4,2015,5,4
+CLOSED,2016-01-03,2016-01-08,North Melbourne,Graffiti,Graffiti Removal,5,2016,1,6
+CLOSED,2016-03-06,2016-04-06,Melbourne,Parks and Trees,Lawns and Irrigation,31,2016,3,6
+CLOSED,2015-05-01,2015-05-06,Kensington,Graffiti,Graffiti Removal,5,2015,5,4
+CLOSED,2016-04-14,2016-05-17,Kensington,Parks and Trees,Lawns and Irrigation,33,2016,4,3
+CLOSED,2016-05-16,2016-05-19,East Melbourne,"Waste, Street Cleaning and Litter",Syringe pick-up services,3,2016,5,0
+CLOSED,2016-06-15,2016-06-16,Carlton,Parks and Trees,Park Cleaning,1,2016,6,2
+CLOSED,2016-03-09,2016-03-15,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,6,2016,3,2
+CLOSED,2015-08-16,2015-08-21,North Melbourne,"Waste, Street Cleaning and Litter",Dumped Rubbish,5,2015,8,6
+CLOSED,2014-11-25,2014-12-01,Melbourne,Parks and Trees,Condition of Assets in Parks,6,2014,11,1
+CLOSED,2015-01-23,2015-02-03,Melbourne,Graffiti,Graffiti Removal,11,2015,1,4
+CLOSED,2015-02-02,2015-02-03,East Melbourne,Roads and Traffic,Road and Footpath Maintenance,1,2015,2,0
+CLOSED,2015-02-02,2015-02-06,Melbourne,Parks and Trees,Tree Maintenance Services,4,2015,2,0
+CLOSED,2016-08-23,2016-08-24,Carlton,"Waste, Street Cleaning and Litter",Public Litter Bin,1,2016,8,1
+CLOSED,2016-07-25,2016-08-04,North Melbourne,Graffiti,Graffiti Removal,10,2016,7,0
+CLOSED,2016-06-08,2016-07-07,North Melbourne,Parks and Trees,Tree Maintenance Services,29,2016,6,2
+CLOSED,2016-06-30,2016-07-04,,"Waste, Street Cleaning and Litter",Public Litter Bin,4,2016,6,3
+CLOSED,2016-07-01,2016-07-11,Melbourne,Graffiti,Graffiti Removal,10,2016,7,4
+CLOSED,2016-07-23,2016-07-27,Melbourne,Graffiti,Graffiti Removal,4,2016,7,5
+CLOSED,2016-06-21,2016-07-04,Docklands,Graffiti,Graffiti Removal,13,2016,6,1
+CLOSED,2016-06-28,2016-07-07,,"Waste, Street Cleaning and Litter",Dumped Rubbish,9,2016,6,1
+CLOSED,2016-07-12,2016-07-18,,"Waste, Street Cleaning and Litter",Waste collection services,6,2016,7,1
+CLOSED,2016-07-25,2016-08-10,,Graffiti,Graffiti Removal,16,2016,7,0
+CLOSED,2016-07-22,2016-08-01,,Graffiti,Graffiti Removal,10,2016,7,4
+CLOSED,2016-09-02,2016-09-13,Carlton,"Waste, Street Cleaning and Litter",Missing Bin,11,2016,9,4
+CLOSED,2016-09-12,2016-09-15,Kensington,"Waste, Street Cleaning and Litter",Public Litter Bin,3,2016,9,0
+CLOSED,2016-09-29,2016-10-05,Carlton,"Waste, Street Cleaning and Litter",Missed Bin Collection,6,2016,9,3
+CLOSED,2016-10-21,2016-10-26,,Roads and Traffic,Road and Footpath Maintenance,5,2016,10,4
+CLOSED,2016-09-08,2016-09-23,,Roads and Traffic,Road and Footpath Maintenance,15,2016,9,3
+CLOSED,2016-10-17,2016-10-17,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,10,0
+CLOSED,2016-10-25,2016-10-26,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,10,1
+CLOSED,2016-10-13,2016-10-21,,Roads and Traffic,Road and Footpath Maintenance,8,2016,10,3
+CLOSED,2016-10-18,2016-10-26,Kensington,Graffiti,Graffiti Removal,8,2016,10,1
+CLOSED,2016-10-18,2016-10-21,Melbourne,Graffiti,Graffiti Removal,3,2016,10,1
+CLOSED,2016-10-19,2016-10-24,Docklands,Roads and Traffic,Road and Footpath Maintenance,5,2016,10,2
+CLOSED,2016-09-29,2016-10-03,,Roads and Traffic,Traffic Management,4,2016,9,3
+CLOSED,2016-09-29,2016-10-03,,Roads and Traffic,Drain Maintenance,4,2016,9,3
+CLOSED,2016-10-04,2016-11-07,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,34,2016,10,1
+CLOSED,2016-09-23,2016-10-04,Parkville,Graffiti,Graffiti Removal,11,2016,9,4
+CLOSED,2016-09-13,2016-09-16,West Melbourne,"Waste, Street Cleaning and Litter",Damaged Bins,3,2016,9,1
+CLOSED,2016-10-18,2016-10-26,,"Waste, Street Cleaning and Litter",Street Cleaning services,8,2016,10,1
+CLOSED,2016-08-11,2016-10-06,,Parking,Parking Meter Service,56,2016,8,3
+CLOSED,2016-09-17,2016-09-26,South Yarra,Parks and Trees,Tree Maintenance Services,9,2016,9,5
+CLOSED,2016-09-13,2016-09-13,Docklands,Parking,Parking Compliance Services,1,2016,9,1
+CLOSED,2016-09-26,2016-10-10,,Graffiti,Graffiti Removal,14,2016,9,0
+CLOSED,2016-10-13,2016-10-26,West Melbourne,Parks and Trees,Lawns and Irrigation,13,2016,10,3
+CLOSED,2016-09-08,2016-09-12,Southbank,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,9,3
+CLOSED,2016-10-14,2016-10-28,Parkville,Parks and Trees,Condition of Assets in Parks,14,2016,10,4
+CLOSED,2016-09-27,2016-10-11,North Melbourne,Graffiti,Graffiti Removal,14,2016,9,1
+CLOSED,2016-09-26,2016-09-26,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2016,9,0
+CLOSED,2016-10-04,2016-10-05,Melbourne,"Waste, Street Cleaning and Litter",Syringe pick-up services,1,2016,10,1
+CLOSED,2016-10-07,2016-10-11,,"Waste, Street Cleaning and Litter",Public Litter Bin,4,2016,10,4
+CLOSED,2016-09-20,2016-09-21,Melbourne,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,9,1
+CLOSED,2016-09-09,2016-09-14,,"Waste, Street Cleaning and Litter",Dumped Rubbish,5,2016,9,4
+CLOSED,2016-10-28,2016-10-28,,"Waste, Street Cleaning and Litter",Syringe pick-up services,1,2016,10,4
+CLOSED,2016-09-01,2016-10-07,Kensington,Asset maintenance,Street Maintenance,36,2016,9,3
+CLOSED,2016-10-19,2016-11-04,,Roads and Traffic,Road and Footpath Maintenance,16,2016,10,2
+CLOSED,2016-10-20,2016-11-02,Melbourne,Graffiti,Graffiti Removal,13,2016,10,3
+CLOSED,2016-10-23,2016-11-02,,"Waste, Street Cleaning and Litter",Dumped Rubbish,10,2016,10,6
+CLOSED,2016-10-02,2016-10-10,,Asset maintenance,Street Lighting Maintenance,8,2016,10,6
+CLOSED,2016-09-12,2016-09-16,,Roads and Traffic,Traffic Management,4,2016,9,0
+CLOSED,2016-05-13,2016-05-20,,Parking,Parking Meter Service,7,2016,5,4
+CLOSED,2016-02-12,2016-04-04,,Parking,Parking Meter Service,52,2016,2,4
+CLOSED,2016-04-01,2016-04-06,,Roads and Traffic,Traffic Management,5,2016,4,4
+CLOSED,2016-02-18,2016-02-29,,"Waste, Street Cleaning and Litter",Waste collection services,11,2016,2,3
+CLOSED,2016-03-30,2016-04-07,,"Waste, Street Cleaning and Litter",Dumped Rubbish,8,2016,3,2
+CLOSED,2016-03-29,2016-05-02,,Graffiti,Graffiti Removal,34,2016,3,1
+CLOSED,2016-03-29,2016-04-08,,"Waste, Street Cleaning and Litter",Syringe pick-up services,10,2016,3,1
+CLOSED,2016-02-18,2016-03-08,,"Waste, Street Cleaning and Litter",Dumped Rubbish,19,2016,2,3
+CLOSED,2016-02-16,2016-02-19,,Graffiti,Graffiti Removal,3,2016,2,1
+CLOSED,2015-11-30,2015-12-07,,"Waste, Street Cleaning and Litter",Missing Bin,7,2015,11,0
+CLOSED,2015-11-26,2015-11-30,,"Waste, Street Cleaning and Litter",Street Cleaning services,4,2015,11,3
+CLOSED,2016-04-04,2016-04-05,,Roads and Traffic,Road and Footpath Maintenance,1,2016,4,0
+CLOSED,2015-11-23,2015-12-07,,Parks and Trees,Sport and Playground Facilities,14,2015,11,0
+CLOSED,2016-03-30,2016-04-06,,Roads and Traffic,Road and Footpath Maintenance,7,2016,3,2
+CLOSED,2015-11-27,2015-12-11,,Roads and Traffic,Traffic Management,14,2015,11,4
+CLOSED,2016-06-16,2016-06-17,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,6,3
+CLOSED,2016-06-10,2016-06-13,,"Waste, Street Cleaning and Litter",Dumped Rubbish,3,2016,6,4
+CLOSED,2016-06-10,2016-06-14,,"Waste, Street Cleaning and Litter",Dumped Rubbish,4,2016,6,4
+CLOSED,2015-11-18,2015-11-24,,Roads and Traffic,Road and Footpath Maintenance,6,2015,11,2
+CLOSED,2015-10-15,2015-10-16,,Roads and Traffic,Drain Maintenance,1,2015,10,3
+CLOSED,2015-10-04,2015-10-04,,Parking,Parking Compliance Services,1,2015,10,6
+CLOSED,2016-05-04,2016-05-09,,Parks and Trees,Tree Maintenance Services,5,2016,5,2
+CLOSED,2016-02-04,2016-02-16,,Roads and Traffic,Road and Footpath Maintenance,12,2016,2,3
+CLOSED,2015-10-20,2015-10-26,,Parks and Trees,Tree Maintenance Services,6,2015,10,1
+CLOSED,2016-03-07,2016-03-08,,Roads and Traffic,Road and Footpath Maintenance,1,2016,3,0
+CLOSED,2016-05-02,2016-05-05,,Graffiti,Graffiti Removal,3,2016,5,0
+CLOSED,2014-12-05,2015-04-16,Melbourne,Parks and Trees,Tree Maintenance Services,132,2014,12,4
+CLOSED,2015-06-21,2015-07-08,Melbourne,Graffiti,Graffiti Removal,17,2015,6,6
+CLOSED,2016-01-04,2016-01-14,,Parks and Trees,Tree Maintenance Services,10,2016,1,0
+CLOSED,2016-04-29,2016-05-20,Melbourne,Graffiti,Graffiti Removal,21,2016,4,4
+CLOSED,2016-05-08,2016-05-09,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,5,6
+CLOSED,2015-10-01,2015-10-01,,Parking,Parking Compliance Services,1,2015,10,3
+CLOSED,2016-02-03,2016-02-12,,"Waste, Street Cleaning and Litter",Dumped Rubbish,9,2016,2,2
+CLOSED,2016-01-01,2016-01-05,,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,1,4
+CLOSED,2016-02-03,2016-02-08,,Asset maintenance,Street Maintenance,5,2016,2,2
+CLOSED,2015-11-06,2015-11-06,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2015,11,4
+CLOSED,2015-06-12,2015-06-15,Melbourne,"Waste, Street Cleaning and Litter",Public Litter Bin,3,2015,6,4
+CLOSED,2015-08-07,2015-08-11,Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,4,2015,8,4
+CLOSED,2016-03-09,2016-03-11,Kensington,Graffiti,Graffiti Removal,2,2016,3,2
+CLOSED,2016-03-04,2016-03-07,Melbourne,Parks and Trees,Condition of Assets in Parks,3,2016,3,4
+CLOSED,2015-10-12,2015-12-03,Melbourne,Parks and Trees,Park Cleaning,52,2015,10,0
+CLOSED,2014-12-23,2014-12-24,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2014,12,1
+CLOSED,2016-04-14,2016-04-18,West Melbourne,"Waste, Street Cleaning and Litter",Syringe pick-up services,4,2016,4,3
+CLOSED,2014-12-24,2015-01-09,Melbourne,Parks and Trees,Condition of Assets in Parks,16,2014,12,2
+CLOSED,2014-12-27,2014-12-30,West Melbourne,"Waste, Street Cleaning and Litter",Damaged Bins,3,2014,12,5
+CLOSED,2014-12-29,2015-01-08,Southbank,Graffiti,Graffiti Removal,10,2014,12,0
+CLOSED,2015-03-13,2015-03-16,Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,3,2015,3,4
+CLOSED,2016-04-20,2016-05-04,Kensington,Graffiti,Graffiti Removal,14,2016,4,2
+CLOSED,2015-10-19,2015-11-05,Carlton North,Graffiti,Graffiti Removal,17,2015,10,0
+CLOSED,2016-05-03,2016-05-24,Kensington,Graffiti,Graffiti Removal,21,2016,5,1
+CLOSED,2015-07-13,2015-07-20,Docklands,Parks and Trees,Lawns and Irrigation,7,2015,7,0
+CLOSED,2015-01-09,2015-01-12,Carlton,Parks and Trees,Sport and Playground Facilities,3,2015,1,4
+CLOSED,2016-04-15,2016-05-06,Docklands,"Waste, Street Cleaning and Litter",Damaged Bins,21,2016,4,4
+CLOSED,2015-04-06,2015-04-09,Carlton,"Waste, Street Cleaning and Litter",Missing Bin,3,2015,4,0
+CLOSED,2015-08-06,2015-08-07,Southbank,"Waste, Street Cleaning and Litter",Public Litter Bin,1,2015,8,3
+CLOSED,2016-06-21,2016-06-21,Docklands,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,6,1
+CLOSED,2016-03-15,2016-03-16,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,3,1
+CLOSED,2015-10-01,2015-10-26,South Yarra,Parks and Trees,Tree Maintenance Services,25,2015,10,3
+CLOSED,2014-12-17,2014-12-18,Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,1,2014,12,2
+CLOSED,2016-03-15,2016-03-24,Parkville,Parks and Trees,Lawns and Irrigation,9,2016,3,1
+CLOSED,2015-08-25,2015-09-03,Melbourne,Graffiti,Graffiti Removal,9,2015,8,1
+CLOSED,2015-12-04,2015-12-07,Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,3,2015,12,4
+CLOSED,2015-02-09,2015-02-12,East Melbourne,Parks and Trees,Tree Maintenance Services,3,2015,2,0
+CLOSED,2016-04-16,2016-04-18,Melbourne,Roads and Traffic,Road and Footpath Maintenance,2,2016,4,5
+CLOSED,2016-01-22,2016-01-29,Docklands,Parks and Trees,Lawns and Irrigation,7,2016,1,4
+CLOSED,2015-05-08,2015-05-20,Parkville,Graffiti,Graffiti Removal,12,2015,5,4
+CLOSED,2015-07-16,2015-08-07,Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,22,2015,7,3
+CLOSED,2015-05-11,2015-05-18,Parkville,Graffiti,Graffiti Removal,7,2015,5,0
+CLOSED,2015-03-24,2015-03-25,Docklands,Parks and Trees,Sport and Playground Facilities,1,2015,3,1
+CLOSED,2015-03-18,2015-03-24,Melbourne,"Waste, Street Cleaning and Litter",Dumped Rubbish,6,2015,3,2
+CLOSED,2016-06-15,2016-06-23,Parkville,Parks and Trees,Condition of Assets in Parks,8,2016,6,2
+CLOSED,2016-04-29,2016-05-02,East Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,3,2016,4,4
+CLOSED,2016-03-15,2016-03-18,Kensington,"Waste, Street Cleaning and Litter",Damaged Bins,3,2016,3,1
+CLOSED,2015-11-01,2015-11-05,North Melbourne,"Waste, Street Cleaning and Litter",Damaged Bins,4,2015,11,6
+CLOSED,2014-12-15,2014-12-24,Carlton North,Parks and Trees,Lawns and Irrigation,9,2014,12,0
+CLOSED,2014-12-17,2014-12-19,Carlton,"Waste, Street Cleaning and Litter",Damaged Bins,2,2014,12,2
+CLOSED,2015-05-05,2015-06-02,Southbank,Parks and Trees,Tree Maintenance Services,28,2015,5,1
+CLOSED,2016-02-22,2016-02-26,Melbourne,Graffiti,Graffiti Removal,4,2016,2,0
+CLOSED,2016-04-14,2016-04-21,Kensington,"Waste, Street Cleaning and Litter",Missing Bin,7,2016,4,3
+CLOSED,2016-01-08,2016-01-12,Carlton,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,1,4
+CLOSED,2015-06-25,2015-06-29,West Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2015,6,3
+CLOSED,2016-04-25,2016-05-06,Melbourne,Graffiti,Graffiti Removal,11,2016,4,0
+CLOSED,2015-11-22,2015-12-18,Carlton,Parks and Trees,Tree Maintenance Services,26,2015,11,6
+CLOSED,2015-04-11,2015-04-14,Melbourne,Roads and Traffic,Road and Footpath Maintenance,3,2015,4,5
+CLOSED,2015-11-22,2015-11-26,Carlton,Roads and Traffic,Road and Footpath Maintenance,4,2015,11,6
+CLOSED,2015-08-26,2015-08-27,Melbourne,"Waste, Street Cleaning and Litter",Missing Bin,1,2015,8,2
+CLOSED,2016-03-17,2016-04-08,Parkville,Graffiti,Graffiti Removal,22,2016,3,3
+CLOSED,2016-06-08,2016-06-10,West Melbourne,"Waste, Street Cleaning and Litter",Damaged Bins,2,2016,6,2
+CLOSED,2015-12-11,2015-12-15,East Melbourne,Parks and Trees,Tree Maintenance Services,4,2015,12,4
+CLOSED,2015-12-21,2015-12-22,East Melbourne,"Waste, Street Cleaning and Litter",Public Litter Bin,1,2015,12,0
+CLOSED,2016-04-29,2016-05-04,Melbourne,"Waste, Street Cleaning and Litter",Dumped Rubbish,5,2016,4,4
+CLOSED,2014-12-04,2014-12-10,Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,6,2014,12,3
+CLOSED,2014-11-26,2014-11-28,Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,2,2014,11,2
+CLOSED,2014-11-12,2014-12-30,Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,48,2014,11,2
+CLOSED,2014-12-10,2014-12-18,Southbank,Graffiti,Graffiti Removal,8,2014,12,2
+CLOSED,2015-02-11,2015-02-23,Carlton,Asset maintenance,Street Maintenance,12,2015,2,2
+CLOSED,2015-06-19,2015-06-26,North Melbourne,"Waste, Street Cleaning and Litter",Damaged Bins,7,2015,6,4
+CLOSED,2015-05-08,2015-05-20,South Yarra,Graffiti,Graffiti Removal,12,2015,5,4
+CLOSED,2015-11-04,2015-11-10,Southbank,Parks and Trees,Tree Maintenance Services,6,2015,11,2
+CLOSED,2015-07-17,2015-07-23,Docklands,Asset maintenance,Street Maintenance,6,2015,7,4
+CLOSED,2015-07-17,2015-07-23,North Melbourne,Asset maintenance,Street Maintenance,6,2015,7,4
+CLOSED,2015-03-20,2015-03-31,South Yarra,Parks and Trees,Lawns and Irrigation,11,2015,3,4
+CLOSED,2015-05-15,2015-06-01,Southbank,"Waste, Street Cleaning and Litter",Public Litter Bin,17,2015,5,4
+CLOSED,2015-05-04,2015-05-29,Kensington,Parks and Trees,Park Cleaning,25,2015,5,0
+CLOSED,2015-05-26,2015-06-02,South Yarra,"Waste, Street Cleaning and Litter",Damaged Bins,7,2015,5,1
+CLOSED,2015-02-12,2015-04-17,Kensington,Parks and Trees,Park Cleaning,64,2015,2,3
+CLOSED,2015-02-23,2015-03-17,West Melbourne,Graffiti,Graffiti Removal,22,2015,2,0
+CLOSED,2015-03-18,2015-03-19,East Melbourne,"Waste, Street Cleaning and Litter",Damaged Bins,1,2015,3,2
+CLOSED,2014-12-29,2014-12-31,Southbank,"Waste, Street Cleaning and Litter",Damaged Bins,2,2014,12,0
+CLOSED,2015-01-14,2015-01-21,North Melbourne,"Waste, Street Cleaning and Litter",Public Litter Bin,7,2015,1,2
+CLOSED,2015-08-19,2015-09-07,Kensington,Graffiti,Graffiti Removal,19,2015,8,2
+CLOSED,2015-11-05,2015-11-10,North Melbourne,Parks and Trees,Tree Maintenance Services,5,2015,11,3
+CLOSED,2016-02-24,2016-02-24,Docklands,Parking,Parking Compliance Services,1,2016,2,2
+CLOSED,2016-02-04,2016-02-08,Melbourne,Graffiti,Graffiti Removal,4,2016,2,3
+CLOSED,2015-11-09,2015-11-17,Kensington,Parks and Trees,Condition of Assets in Parks,8,2015,11,0
+CLOSED,2016-03-04,2016-03-08,Melbourne,Parks and Trees,Tree Maintenance Services,4,2016,3,4
+CLOSED,2016-01-15,2016-01-18,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,3,2016,1,4
+CLOSED,2016-03-23,2016-03-23,Docklands,Parking,Parking Compliance Services,1,2016,3,2
+CLOSED,2016-02-10,2016-02-15,Carlton North,Graffiti,Graffiti Removal,5,2016,2,2
+CLOSED,2016-05-08,2016-05-30,East Melbourne,Parks and Trees,Condition of Assets in Parks,22,2016,5,6
+CLOSED,2016-03-29,2016-04-07,Melbourne,Graffiti,Graffiti Removal,9,2016,3,1
+CLOSED,2016-03-29,2016-04-03,West Melbourne,Parks and Trees,Lawns and Irrigation,5,2016,3,1
+CLOSED,2016-02-18,2016-02-22,West Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,2,3
+CLOSED,2015-12-31,2016-01-04,North Melbourne,"Waste, Street Cleaning and Litter",Missing Bin,4,2015,12,3
+CLOSED,2015-11-20,2015-11-20,Carlton,"Waste, Street Cleaning and Litter",Syringe pick-up services,1,2015,11,4
+CLOSED,2016-01-04,2016-01-29,Carlton,Graffiti,Graffiti Removal,25,2016,1,0
+CLOSED,2016-05-12,2016-05-16,Kensington,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,5,3
+CLOSED,2016-03-03,2016-03-08,Melbourne,Graffiti,Graffiti Removal,5,2016,3,3
+CLOSED,2016-04-04,2016-05-03,Kensington,Parks and Trees,Tree Maintenance Services,29,2016,4,0
+CLOSED,2016-06-01,2016-06-01,Carlton,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2016,6,2
+CLOSED,2015-01-12,2015-01-15,East Melbourne,Parks and Trees,Tree Maintenance Services,3,2015,1,0
+CLOSED,2015-06-01,2015-06-18,East Melbourne,Parks and Trees,Tree Maintenance Services,17,2015,6,0
+CLOSED,2014-11-17,2014-11-19,Carlton,"Waste, Street Cleaning and Litter",Missing Bin,2,2014,11,0
+CLOSED,2015-02-18,2015-02-25,North Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,7,2015,2,2
+CLOSED,2015-04-21,2015-04-21,Docklands,Parks and Trees,Condition of Assets in Parks,1,2015,4,1
+CLOSED,2014-12-18,2014-12-22,,"Waste, Street Cleaning and Litter",Damaged Bins,4,2014,12,3
+CLOSED,2015-04-09,2015-04-16,,"Waste, Street Cleaning and Litter",Dumped Rubbish,7,2015,4,3
+CLOSED,2015-01-09,2015-01-13,,"Waste, Street Cleaning and Litter",Missing Bin,4,2015,1,4
+CLOSED,2015-05-07,2015-05-14,,"Waste, Street Cleaning and Litter",Dumped Rubbish,7,2015,5,3
+CLOSED,2015-06-13,2015-06-27,,"Waste, Street Cleaning and Litter",Damaged Bins,14,2015,6,5
+CLOSED,2015-02-01,2015-02-01,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2015,2,6
+CLOSED,2015-06-16,2015-06-18,,Roads and Traffic,Road and Footpath Maintenance,2,2015,6,1
+CLOSED,2015-06-16,2015-06-18,,Asset maintenance,Street Lighting Maintenance,2,2015,6,1
+CLOSED,2015-06-26,2015-06-26,,Roads and Traffic,Traffic Management,1,2015,6,4
+CLOSED,2015-03-26,2015-03-27,,"Waste, Street Cleaning and Litter",Syringe pick-up services,1,2015,3,3
+CLOSED,2015-06-10,2015-06-18,,"Waste, Street Cleaning and Litter",Syringe pick-up services,8,2015,6,2
+CLOSED,2014-11-27,2014-12-01,,Roads and Traffic,Road and Footpath Maintenance,4,2014,11,3
+CLOSED,2014-12-03,2014-12-05,,"Waste, Street Cleaning and Litter",Waste collection services,2,2014,12,2
+CLOSED,2014-12-08,2014-12-16,,Roads and Traffic,Road and Footpath Maintenance,8,2014,12,0
+CLOSED,2014-11-20,2014-11-25,,Roads and Traffic,Traffic Management,5,2014,11,3
+CLOSED,2015-04-07,2015-04-14,,Graffiti,Graffiti Removal,7,2015,4,1
+CLOSED,2014-11-14,2014-11-18,,Roads and Traffic,Road and Footpath Maintenance,4,2014,11,4
+CLOSED,2015-05-13,2015-05-21,,"Waste, Street Cleaning and Litter",Damaged Bins,8,2015,5,2
+CLOSED,2015-06-15,2015-06-16,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2015,6,0
+CLOSED,2015-01-27,2015-02-06,,Graffiti,Graffiti Removal,10,2015,1,1
+CLOSED,2015-01-13,2015-01-13,,Parking,Parking Compliance Services,1,2015,1,1
+CLOSED,2015-06-29,2016-04-07,,Parking,Parking Meter Service,283,2015,6,0
+CLOSED,2015-01-28,2015-03-02,,Roads and Traffic,Traffic Management,33,2015,1,2
+CLOSED,2015-02-06,2015-02-17,,Roads and Traffic,Traffic Management,11,2015,2,4
+CLOSED,2015-01-05,2015-01-08,,Roads and Traffic,Traffic Management,3,2015,1,0
+CLOSED,2015-07-09,2015-07-10,,"Waste, Street Cleaning and Litter",Public Litter Bin,1,2015,7,3
+CLOSED,2015-02-13,2015-02-26,,Roads and Traffic,Traffic Management,13,2015,2,4
+CLOSED,2015-02-16,2015-02-19,,"Waste, Street Cleaning and Litter",Dumped Rubbish,3,2015,2,0
+CLOSED,2015-03-26,2015-03-26,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2015,3,3
+CLOSED,2015-01-14,2015-01-21,,Roads and Traffic,Traffic Management,7,2015,1,2
+CLOSED,2015-09-14,2015-09-24,,"Waste, Street Cleaning and Litter",Dumped Rubbish,10,2015,9,0
+CLOSED,2015-01-13,2015-01-15,,"Waste, Street Cleaning and Litter",Public Litter Bin,2,2015,1,1
+CLOSED,2015-04-20,2016-01-29,,Parking,Parking Meter Service,284,2015,4,0
+CLOSED,2015-04-30,2016-01-06,,Roads and Traffic,Traffic Management,251,2015,4,3
+CLOSED,2015-06-08,2015-12-08,,Parking,Parking Meter Service,183,2015,6,0
+CLOSED,2015-01-22,2015-01-22,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2015,1,3
+CLOSED,2015-03-10,2015-03-13,,Roads and Traffic,Road and Footpath Maintenance,3,2015,3,1
+CLOSED,2014-12-09,2014-12-11,,"Waste, Street Cleaning and Litter",Damaged Bins,2,2014,12,1
+CLOSED,2015-01-06,2015-01-13,,Parks and Trees,Tree Maintenance Services,7,2015,1,1
+CLOSED,2015-10-05,2015-10-21,,Parks and Trees,Condition of Assets in Parks,16,2015,10,0
+CLOSED,2015-03-05,2015-03-16,,Roads and Traffic,Road and Footpath Maintenance,11,2015,3,3
+CLOSED,2015-05-04,2015-05-08,,Roads and Traffic,Traffic Management,4,2015,5,0
+CLOSED,2015-05-27,2015-06-01,,Graffiti,Graffiti Removal,5,2015,5,2
+CLOSED,2015-05-27,2015-06-01,,"Waste, Street Cleaning and Litter",Missing Bin,5,2015,5,2
+CLOSED,2015-02-12,2015-02-21,,"Waste, Street Cleaning and Litter",Waste collection services,9,2015,2,3
+CLOSED,2015-05-26,2015-06-01,,Roads and Traffic,Traffic Management,6,2015,5,1
+CLOSED,2014-11-17,2014-11-21,,"Waste, Street Cleaning and Litter",Dumped Rubbish,4,2014,11,0
+CLOSED,2016-02-02,2016-02-02,,Roads and Traffic,Drain Maintenance,1,2016,2,1
+CLOSED,2015-09-27,2015-09-29,,"Waste, Street Cleaning and Litter",Dumped Rubbish,2,2015,9,6
+CLOSED,2015-08-22,2015-08-25,,"Waste, Street Cleaning and Litter",Missed Bin Collection,3,2015,8,5
+CLOSED,2015-06-02,2015-06-16,,Graffiti,Graffiti Removal,14,2015,6,1
+CLOSED,2015-10-23,2015-10-27,,Roads and Traffic,Traffic Management,4,2015,10,4
+CLOSED,2015-07-22,2015-07-30,,Graffiti,Graffiti Removal,8,2015,7,2
+CLOSED,2015-06-16,2015-06-22,,Parks and Trees,Tree Maintenance Services,6,2015,6,1
+CLOSED,2015-06-29,2015-06-30,,Graffiti,Graffiti Removal,1,2015,6,0
+CLOSED,2015-10-08,2015-10-09,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2015,10,3
+CLOSED,2016-04-26,2016-05-12,Carlton,Graffiti,Graffiti Removal,16,2016,4,1
+CLOSED,2015-09-13,2015-10-05,,Parks and Trees,Tree Maintenance Services,22,2015,9,6
+CLOSED,2015-12-14,2015-12-14,,Parking,Parking Compliance Services,1,2015,12,0
+CLOSED,2015-08-31,2015-09-22,,Graffiti,Graffiti Removal,22,2015,8,0
+CLOSED,2015-07-15,2016-01-18,,Parking,Parking Meter Service,187,2015,7,2
+CLOSED,2016-02-08,2016-02-08,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,2,0
+CLOSED,2016-06-20,2016-06-22,Carlton,Graffiti,Graffiti Removal,2,2016,6,0
+CLOSED,2014-12-22,2015-01-09,South Yarra,Graffiti,Graffiti Removal,18,2014,12,0
+CLOSED,2015-10-12,2015-10-15,,"Waste, Street Cleaning and Litter",Public Litter Bin,3,2015,10,0
+CLOSED,2015-08-20,2015-08-20,,Parking,Parking Compliance Services,1,2015,8,3
+CLOSED,2015-07-13,2015-07-16,,Roads and Traffic,Traffic Management,3,2015,7,0
+CLOSED,2015-10-07,2015-11-04,,Parks and Trees,Tree Maintenance Services,28,2015,10,2
+CLOSED,2016-01-05,2016-02-04,,Graffiti,Graffiti Removal,30,2016,1,1
+CLOSED,2015-10-27,2015-11-05,,"Waste, Street Cleaning and Litter",Dumped Rubbish,9,2015,10,1
+CLOSED,2015-10-01,2015-10-16,,Roads and Traffic,Traffic Management,15,2015,10,3
+CLOSED,2015-10-25,2015-11-04,,"Waste, Street Cleaning and Litter",Waste collection services,10,2015,10,6
+CLOSED,2015-09-28,2015-09-28,,"Waste, Street Cleaning and Litter",Waste collection services,1,2015,9,0
+CLOSED,2015-10-07,2015-10-09,,Asset maintenance,Street Lighting Maintenance,2,2015,10,2
+CLOSED,2016-02-25,2016-02-26,Melbourne,"Waste, Street Cleaning and Litter",Public Litter Bin,1,2016,2,3
+CLOSED,2015-07-09,2015-07-13,,Roads and Traffic,Drain Maintenance,4,2015,7,3
+CLOSED,2015-09-03,2015-09-30,,"Waste, Street Cleaning and Litter",Dumped Rubbish,27,2015,9,3
+CLOSED,2015-10-20,2015-10-23,,Roads and Traffic,Road and Footpath Maintenance,3,2015,10,1
+CLOSED,2016-09-26,2016-10-04,Kensington,"Waste, Street Cleaning and Litter",Damaged Bins,8,2016,9,0
+CLOSED,2016-03-03,2016-04-05,,Parks and Trees,Tree Maintenance Services,33,2016,3,3
+CLOSED,2015-10-19,2015-10-28,,"Waste, Street Cleaning and Litter",Street Cleaning services,9,2015,10,0
+CLOSED,2015-10-08,2015-10-08,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2015,10,3
+CLOSED,2015-09-08,2015-09-10,,"Waste, Street Cleaning and Litter",Dumped Rubbish,2,2015,9,1
+CLOSED,2015-08-23,2015-08-24,,"Waste, Street Cleaning and Litter",Public Litter Bin,1,2015,8,6
+CLOSED,2016-03-08,2016-03-15,,"Waste, Street Cleaning and Litter",Dumped Rubbish,7,2016,3,1
+CLOSED,2015-12-08,2015-12-09,,Parks and Trees,Tree Maintenance Services,1,2015,12,1
+CLOSED,2015-09-24,2015-09-25,,"Waste, Street Cleaning and Litter",Missed Bin Collection,1,2015,9,3
+CLOSED,2015-07-27,2015-07-30,,"Waste, Street Cleaning and Litter",Damaged Bins,3,2015,7,0
+CLOSED,2015-10-12,2015-10-24,,"Waste, Street Cleaning and Litter",Dumped Rubbish,12,2015,10,0
+CLOSED,2015-10-21,2015-10-22,,"Waste, Street Cleaning and Litter",Public Litter Bin,1,2015,10,2
+CLOSED,2016-01-21,2016-01-26,North Melbourne,"Waste, Street Cleaning and Litter",Damaged Bins,5,2016,1,3
+CLOSED,2016-03-05,2016-03-09,,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,3,5
+CLOSED,2016-03-04,2016-03-08,,"Waste, Street Cleaning and Litter",Missed Bin Collection,4,2016,3,4
+CLOSED,2016-04-18,2016-05-10,North Melbourne,"Waste, Street Cleaning and Litter",Waste collection services,22,2016,4,0
+CLOSED,2016-02-05,2016-02-10,East Melbourne,"Waste, Street Cleaning and Litter",Damaged Bins,5,2016,2,4
+CLOSED,2015-10-01,2015-10-05,,Parks and Trees,Tree Maintenance Services,4,2015,10,3
+CLOSED,2015-05-18,2015-05-18,,Parking,Parking Compliance Services,1,2015,5,0
+CLOSED,2015-08-11,2015-08-14,,Roads and Traffic,Road and Footpath Maintenance,3,2015,8,1
+CLOSED,2016-02-22,2016-02-24,,"Waste, Street Cleaning and Litter",Public Litter Bin,2,2016,2,0
+CLOSED,2016-03-24,2016-04-03,,"Waste, Street Cleaning and Litter",Waste collection services,10,2016,3,3
+CLOSED,2015-02-23,2015-02-23,,Parking,Parking Compliance Services,1,2015,2,0
+CLOSED,2015-04-27,2015-04-30,,"Waste, Street Cleaning and Litter",Dumped Rubbish,3,2015,4,0
+CLOSED,2015-05-18,2015-05-26,,Asset maintenance,Street Maintenance,8,2015,5,0
+CLOSED,2015-02-05,2015-02-11,,Asset maintenance,Bridge Maintenance,6,2015,2,3
+CLOSED,2015-12-02,2015-12-08,,Parks and Trees,Tree Maintenance Services,6,2015,12,2
+CLOSED,2015-07-07,2015-07-14,,"Waste, Street Cleaning and Litter",Dumped Rubbish,7,2015,7,1
+CLOSED,2015-01-07,2015-01-09,,Parks and Trees,Tree Maintenance Services,2,2015,1,2
+CLOSED,2016-06-07,2016-06-08,,"Waste, Street Cleaning and Litter",Dumped Rubbish,1,2016,6,1
+CLOSED,2015-10-12,2015-10-14,,"Waste, Street Cleaning and Litter",Street Cleaning services,2,2015,10,0
+CLOSED,2015-05-09,2015-05-18,,"Waste, Street Cleaning and Litter",Damaged Bins,9,2015,5,5
+CLOSED,2014-12-30,2015-01-06,,Graffiti,Graffiti Removal,7,2014,12,1
+CLOSED,2015-05-25,2015-06-02,,Graffiti,Graffiti Removal,8,2015,5,0
+CLOSED,2016-02-29,2016-03-09,,Parking,Parking Meter Service,9,2016,2,0
+CLOSED,2015-02-27,2015-02-27,,Parking,Parking Compliance Services,1,2015,2,4
+CLOSED,2016-07-19,2016-07-26,North Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,7,2016,7,1
+CLOSED,2016-08-19,2016-08-19,,Parking,Parking Compliance Services,1,2016,8,4
+CLOSED,2016-08-19,2016-08-19,,Roads and Traffic,Road and Footpath Maintenance,1,2016,8,4
+CLOSED,2016-07-16,2016-07-18,,"Waste, Street Cleaning and Litter",Syringe pick-up services,2,2016,7,5
+CLOSED,2016-07-06,2016-07-06,,Roads and Traffic,Drain Maintenance,1,2016,7,2
+CLOSED,2016-08-22,2016-09-02,West Melbourne,Graffiti,Graffiti Removal,11,2016,8,0
+CLOSED,2016-03-23,2016-07-15,Docklands,Roads and Traffic,Traffic Management,114,2016,3,2
+CLOSED,2016-08-27,2016-08-31,,"Waste, Street Cleaning and Litter",Dumped Rubbish,4,2016,8,5
+CLOSED,2016-07-20,2016-07-28,,"Waste, Street Cleaning and Litter",Dumped Rubbish,8,2016,7,2
+CLOSED,2016-09-05,2016-09-09,Kensington,Parks and Trees,Lawns and Irrigation,4,2016,9,0
+CLOSED,2016-07-04,2016-07-04,,"Waste, Street Cleaning and Litter",Street Cleaning services,1,2016,7,0
+CLOSED,2016-08-15,2016-08-17,,"Waste, Street Cleaning and Litter",Street Cleaning services,2,2016,8,0
+CLOSED,2016-06-22,2016-06-29,Melbourne,Graffiti,Graffiti Removal,7,2016,6,2
+CLOSED,2016-09-02,2016-09-05,East Melbourne,"Waste, Street Cleaning and Litter",Missed Bin Collection,3,2016,9,4
+CLOSED,2016-06-28,2016-07-01,,"Waste, Street Cleaning and Litter",Missed Bin Collection,3,2016,6,1
+CLOSED,2015-02-20,2016-08-02,,Asset maintenance,Street Maintenance,529,2015,2,4
+CLOSED,2016-08-04,2016-08-04,,Roads and Traffic,Road and Footpath Maintenance,1,2016,8,3
+CLOSED,2016-07-06,2016-07-25,,Roads and Traffic,Traffic Management,19,2016,7,2
