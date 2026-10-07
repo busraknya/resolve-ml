@@ -6,6 +6,12 @@
 
 # English
 
+### Data Source
+
+The dataset was collected from the City of Melbourne Open Data API.
+
+[City of Melbourne Open Data](https://data.melbourne.vic.gov.au/)
+
 ## About the Project
 
 Resolve is a machine learning project that predicts how many days a customer service request may take to complete.
@@ -213,6 +219,12 @@ The long-term goal is to move Resolve from a simple ML project to a more realist
 ---
 
 # Türkçe
+
+### Veri Kaynağı
+
+Veri seti City of Melbourne Open Data API üzerinden toplanmıştır.
+
+[City of Melbourne Open Data](https://data.melbourne.vic.gov.au/)
 
 ## Proje Hakkında
 
